@@ -1,7 +1,10 @@
 ---
-title: Cleveland Youth Football 7/8 2024
+title: Welcome to CYF for 7/8 in 2024
 ---
+[[Staff]]
 
-Howdy Bryan Buck!
+[[Defense]]
 
-[[Youth Football MOC]]
+[[Offense]]
+
+
