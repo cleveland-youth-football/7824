@@ -1,5 +1,5 @@
 ---
-title: Cleveland Youth Football: 7/8 '24
+title: Cleveland Youth Football: 7/8 2024
 ---
 
 Howdy Bryan Buck!
