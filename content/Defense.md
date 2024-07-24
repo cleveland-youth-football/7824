@@ -1,4 +1,7 @@
 # 4-2-5 Defense (could be considered a 4-4)
+
+![[Pasted image 20240724100717.png]]
+
 - the `4` means four down linemen
 	- 2 `DEs` defensive ends
 	- 1 `NT` nose tackle
