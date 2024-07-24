@@ -15,7 +15,10 @@
 	- 1 `W` weak linebacker "Will"
 	- 1 `R` rover "Ron"
 
-# DL
+
+# 6-Man Box
+
+### DL
 
 These players line up _on_ the LOS (line of scrimmage) and attack the offense every down. It is important that these players don't jump offside on defense. Either watch the ball and don't move until it does, or watch the offensive player across from you and wait for them to move.
 
@@ -36,7 +39,7 @@ These players line up _on_ the LOS (line of scrimmage) and attack the offense ev
 - This plays is always on the strength side of the formation
 - This player is paired with **S** (strong linebacker, "Sam") for knowing which gap (A or B) they are responsible for and need to attack
 
-# LBs
+### LBs
 
 These are the aggressive run stopping, covering and blitzing players. They _must_ be tough and great tacklers. They will see a lot action. They must be smart and know what their assignment is and what gap they are responsible for. If they are covering a player out of the back field they must be good on tracking them down over long distances. 
 
@@ -49,10 +52,14 @@ These are the aggressive run stopping, covering and blitzing players. They _must
 #### S
 - **S** is partnered with the **DT** on the strong side of the formation
 
+
+[[6-man-box-playcalls]]
+
 # Secondary
 
 These players are primarily covering potential receivers. However, they also have responsibilities in the run game. 
 #### R
+- could be considered an `OLB` (outside linebacker) in a 4-4 scheme
 - these players take "read steps" just like the **LBs**, but they are backwards at the snap of the ball. The exception might be for the **R** and **W** who are similar to LBs (and what make this defense similar to a  4-4). 
 - these are apex players and align between the #2 receiver (the CB takes #1) and where the DE on their side lines up.
 - if there is no number #2 receiver or there is only one TE on their side, they line up 3x3yds off of the last offensive player (OT or TE) and off the LOS
@@ -60,6 +67,7 @@ These players are primarily covering potential receivers. However, they also hav
 - always aligned to the strength of the offense formation; sometimes to the "field" or the wide side of the field
 - take two read steps just like the 
 #### W
+- could be considered an `OLB` (outside linebacker) in a 4-4 scheme
 - these players take "read steps" just like the **LBs**, but they are backwards at the snap of the ball. The exception might be for the **R** and **W** who are similar to LBs (and what make this defense similar to a  4-4). 
 - these are apex players and align between the #2 receiver (the CB takes #1) and where the DE on their side lines up.
 - if there is no number #2 receiver or there is only one TE on their side, they line up 3x3yds off of the last offensive player (OT or TE) and off the LOS
