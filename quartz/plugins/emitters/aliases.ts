@@ -76,6 +76,22 @@ export const AliasRedirects: QuartzEmitterPlugin = () => ({
         fps.push(fp)
       }
     }
+
+    // Add the robots.txt file
+    const robotsTxtContent = `
+User-agent: *
+Disallow: /
+  `
+
+    const robotsTxtPath = await write({
+      ctx,
+      content: robotsTxtContent,
+      slug: "robots",
+      ext: ".txt",
+    })
+
+    fps.push(robotsTxtPath)
+
     return fps
   },
 })
