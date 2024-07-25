@@ -10,7 +10,7 @@
 # Coaching 
 
 ### Who are we?
-- physically fit
+- physically fit, aggressive
 - well prepared and organized
 
 Our goal is teach the game of football and the skills therein to prepare our young athletes to join the HS team. It has be enjoyable for the kids. Our approach is teach them what it means to prepare and compete. Through this they will bond as a team as they find success and failure, just like the real world they are preparing to enter.
