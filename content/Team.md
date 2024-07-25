@@ -54,10 +54,13 @@ Parents are the ultimate fans for the team, both for their athletes as well as t
 - take seriously the responsibility of coaching the Parents' youth athletes
 
 ### Personnel
-#### President
+
+#### Cleveland HS Head Football Coach
+- Trevor Smith
+#### Youth Football President
 - Bryan Buck
-#### Coaching Staff
-- [[Coach Scott Idler]]
+#### Youth Football Coaching Staff
+- [[Coach Scott Idler]] 503|999|0803
 - Coach Cory Restvedt
 - Coach Brad Evenhus
 - Coach Philip Kelsven
