@@ -23,13 +23,19 @@ We utilize 3 primary formations: `Black`, `Green` and `Yellow`. We use the same 
 
 ![[Pasted image 20240724081639.png]]
 
-- `20 Personnel` means `2 RBs` (running backs) in the backfield; `0 TEs` (tight ends); by elimination that leaves 3 `WRs`
+- `20 Personnel` means: 
+	- `2 RBs` (running backs) in the backfield
+	- `0 TEs` (tight ends)
+	- by elimination that leaves 3 `WRs`
 - 2x1 means `2 WRs` (wide receivers) on one side and `1 WR` on the other side
 #### Green `10 Personnel` 2x2
 
 ![[Pasted image 20240724081715.png]]
 
-- `10 Personnel` means `1 RB` in the backfield; `0 TEs`; by elimination that leaves `4 WRs`
+- `10 Personnel` means:
+	- `1 RB` in the backfield
+	- `0 TEs`
+	- by elimination that leaves `4 WRs`
 - 2x2 means `2 WRs` on one side and `2 WRs` on the other side
 #### Yellow `10 Personnel` 3x1
 
@@ -41,11 +47,11 @@ We utilize 3 primary formations: `Black`, `Green` and `Yellow`. We use the same 
 ## Plays
 
 words
-### Run
+### Rush (Running Plays)
 
 words
 #### Trap `Bama`
-- state: Alabama
+![[Pasted image 20240725115750.png]]
 - `trap` blocking is a gap scheme where the `DEs` are ignored and instead the `OT` (offensive tackles) go straight for linebackers
 - the `C` (center) snaps the ball and then seals the `NT` in the "shade" or a `1-tech` (A gap)
 - the `G` (guard) that shares the same A gap with the `C`, pulls around the `C` and hits the `DT`; the rushing player will follow this block
@@ -53,7 +59,13 @@ words
 - This play is quick hitting and leaves the `DEs` unblocked because they won't have an opportunity to get in on the play
 - meanwhile the play side `G` and the two `Ts` skip to blocking the `LBs` directly
 #### Power/Counter `Rado`
-- state: Colorado
+
+##### Power (Strong)
+![[Pasted image 20240725115853.png]]
+
+##### Counter (Weak)
+![[Pasted image 20240725115912.png]]
+
 - gap scheme
 - `power` and `counter` blocking is exactly the same except which player "kicks" and which "wraps"
 	- `power` has the `H` "kick out" the unblocked `DE`; the pulling `G` wraps through the hole to block the PS (play side) `LB`
@@ -62,47 +74,75 @@ words
 	- `power` / `counter` are physical runs because every block with leverage with players having clear assignments
 	- for simplicity, we have made `power` always go to the strength of the formation and `counter` to weak
 #### Inside Zone `Indy`
+![[Pasted image 20240725120031.png]]
+
 - state: Indiana
 #### Outside Zone `Okie`
+![[Pasted image 20240725120121.png]]
+
 - state: Oklahoma
 #### Option `Ore`
+![[Pasted image 20240725120150.png]]
+
 - state: Oregon
 #### Jet `Jersey`
-- state: New Jersey
+![[Pasted image 20240725120223.png]]
+
+- item
 
 ### Pass
 
 #### Snack `Kota`
-- state: South Dakota
+
+##### Stick
+![[Pasted image 20240725120628.png]]
+
+##### Snag
+![[Pasted image 20240725120640.png]]
+
+##### Bow
+![[Pasted image 20240725133103.png]]
+
+
 - three very similar concepts
 	- v1 `stick`
 	- v2 `snag`
 	- v2 `bow`
 - 3 player where a player sits near the apex defender, another in the flat and a clear out route. The apex player can't cover both the sit route AND the flat
 #### Mesh `Mich`
-- state: Michigan
+![[Pasted image 20240725120817.png]]
+
 - inside WRs slap hands as the `H` goes _under_ the `Y`
 - `H`should pop free on the other side of the OL after clearing the `Y` and `Z` running "rub routes"
 #### Cross `Hai`
-- state: Hawaii
 - two similar concepts
 	- v1 `y-cross`
 	- v2 `shallow cross`
+##### Y-Cross
+![[Pasted image 20240725120926.png]]
+
+##### Shallow Cross
+![[Pasted image 20240725120950.png]]
+
+
 #### Flood `Flo`
-- state: Florida
+![[Pasted image 20240725121047.png]]
+
 - flood concept where you "flood" one side of the field with most of the WRs
 - setup with we fake zone run and boot
 #### Yankee `York`
-- state: New York
+![[Pasted image 20240725121122.png]]
+
 - this is a shot play where you try to hit a home run
 #### Cheese `Wisc`
-- state: Wisconsin
+![[Pasted image 20240725121204.png]]
+
 - This play features whip-wheel route combos designed to get the wheel route wide open
 
 ### Misc
 
 #### Misc `Miss`
-- state: Mississippi
+- items
 
 
 # Positions

@@ -36,7 +36,7 @@ This whole endeavor is about the youth football players.  Everything we do will 
 
 ## Parents
 
-Parents are the ultimate fans for the team, both for athletes as well as the classmates comprising the team because they have vested interest in seeing their youth athlete be challenged and rise to the challenge, learning life lessons along the way. We know this because we (the coaches) are parents and have experienced, or are experiencing this.
+Parents are the ultimate fans for the team, both for their athletes as well as the classmates that form the team. This is because they have vested interest in seeing their youth athlete be challenged and rise to the challenge, learning life lessons along the way. We know this because, we (the coaches), are parents and have experienced, or are experiencing this.
 
 #### How to Engage:
 - if you want to address something with a coach, please setup an appointment via text or email
@@ -53,7 +53,10 @@ Parents are the ultimate fans for the team, both for athletes as well as the cla
 - set clear expectations for what we are doing and why we are doing it
 - take seriously the responsibility of coaching the Parents' youth athletes
 
-### Staff
+### Personnel
+#### President
+- Bryan Buck
+#### Coaching Staff
 - [[Coach Scott Idler]]
 - Coach Cory Restvedt
 - Coach Brad Evenhus
