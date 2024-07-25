@@ -18,6 +18,8 @@
 
 # 6-Man Box
 
+## [[6-man-box-playcalls]]
+
 ## DL
 
 These players line up _on_ the LOS (line of scrimmage) and attack the offense every down. It is important that these players don't jump offside on defense. Either watch the ball and don't move until it does, or watch the offensive player across from you and wait for them to move.
@@ -53,31 +55,25 @@ These are the aggressive run stopping, covering and blitzing players. They _must
 - **S** is partnered with the **DT** on the strong side of the formation
 
 
-[[6-man-box-playcalls]]
-
 ## Secondary
 
 These players are primarily covering potential receivers. However, they also have responsibilities in the run game. 
-### R
+### R & W
+- take two `read steps` forward at the snap of the ball 
+- **R** (Rover) is always to the declared `strong` side of the formation
+- **W** (Weak Linebacker "Will") is always opposite the declared `strong` side of the formation
 - could be considered an `OLB` (outside linebacker) in a 4-4 scheme
-- these players take "read steps" just like the **LBs**, but they are backwards at the snap of the ball. The exception might be for the **R** and **W** who are similar to LBs (and what make this defense similar to a  4-4). 
 - these are apex players and align between the #2 receiver (the CB takes #1) and where the DE on their side lines up.
 - if there is no number #2 receiver or there is only one TE on their side, they line up 3x3yds off of the last offensive player (OT or TE) and off the LOS
 - if the offense is 3x1 the player will press the #2 WR
-- always aligned to the strength of the offense formation; sometimes to the "field" or the wide side of the field
-- take two read steps just like the 
-### W
-- could be considered an `OLB` (outside linebacker) in a 4-4 scheme
-- these players take "read steps" just like the **LBs**, but they are backwards at the snap of the ball. The exception might be for the **R** and **W** who are similar to LBs (and what make this defense similar to a  4-4). 
-- these are apex players and align between the #2 receiver (the CB takes #1) and where the DE on their side lines up.
-- if there is no number #2 receiver or there is only one TE on their side, they line up 3x3yds off of the last offensive player (OT or TE) and off the LOS
-- always aligned opposite the **R** and to the weak side of the offense formation; sometimes to the "boundary" or the short side of the field
 ### F
+- take two `read steps` backward at the snap of the ball 
 - the safety aligns to the strength of the formation at 10-12yds off of the LOS
 - they take 2 read steps backwards
 - they are the last line of defense and _cannot get beat deep_
 - in 3x1 formations they take the #3 player and align "apexed" between the **Q** and the **#3**
 ### CBs
+- take two `read steps` backward at the snap of the ball 
 - these players line up over the #1 receiver (the furthest out on each side is known as #1)
 - line up 7yds off of the LOS and slightly inside of the WR (until the team proves that they can hurt us with that alignment)
 - if the offense is 3x1 where the 1 is a **TE** then we will move the **CBs** to the same side taking the #1 and #2 WRs.
