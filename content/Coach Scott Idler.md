@@ -1,9 +1,20 @@
-I am software engineering manager by day and football coach by night... err afternoon! 
+### Quick Facts
+- I have been an assistant coach for this organization for 4 years
+	- 2018 (Grant's 7th)
+	- 2019 (Grant's 8th + Sean McCormick!)
+	- 2022
+	- 2023
+- This is my first time as a head coach
+- I am a software engineering manager for work
+- I found my love of Football at the University of Colorado in '94' watching Kordell Stewart lighting up the scoreboard!
+
+### My Personal Family Football Story
 
 I didn't play football as a kid. My parents signed me up for 3 terrible sports.
 - Baseball
 - Wrestling
 - Swimming
+
 I was only good at swimming and did it until I was in 9th grade. I hate all racing sports by the way! I never got to play football, soccer, basketball or lacrosse.
 
 I sent photos of the billboard advertisements for kids to play youth football when my son was in elementary school to my wife.  She said, "No way!" CTE this, concussions that, etc. I was sad.
