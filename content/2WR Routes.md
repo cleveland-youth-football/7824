@@ -10,21 +10,21 @@ some blurb
     - Ensure your weight is balanced and you're ready to move quickly
     - The outside foot (furthest away from the `Center`) should be set backwards
 - **Read the Play:**
-    - Identify your route and blocking assignment before the snap.
-    - Observe the defense's alignment and anticipate their movements.
+    - Identify your route and blocking assignment before the snap
+    - Observe the defense's alignment and anticipate their movements
 - **Approach the Defender:**
-    - Move towards the defender in a controlled manner, not giving away your intent too early.
-    - Maintain a low, athletic stance to stay balanced and ready for contact.
+    - Move towards the defender in a controlled manner, not giving away your intent too early
+    - Maintain a low, athletic stance to stay balanced and ready for contact
 - **Close the Distance:**
-    - As you get closer to the defender, shorten your strides to maintain control.
-    - Keep your eyes on the defender’s chest to avoid getting faked out by their head or shoulder movements.
+    - As you get closer to the defender, shorten your strides to maintain control
+    - Keep your eyes on the defender’s chest to avoid getting faked out by their head or shoulder movements
 - **Engage the Defender:**
-    - When within reach, get your hands up and ready to make contact.
-    - Aim to place your hands on the defender’s chest or shoulders.
-    - Deliver a strong block to clear the path for your teammate.
+    - When within reach, get your hands up and ready to make contact
+    - Aim to place your hands on the defender’s chest or shoulders
+    - Deliver a strong block to clear the path for your teammate
 - **Practice:**
-    - Repetition is key. Practice with a teammate or coach to refine your technique.
-    - Focus on staying low, maintaining balance, and keeping your hands inside to avoid penalties.
+    - Repetition is key. Practice with a teammate or coach to refine your technique
+    - Focus on staying low, maintaining balance, and keeping your hands inside to avoid penalties
 
 
 ### `1` Stalk Blocks
@@ -33,12 +33,12 @@ some blurb
 #### How to Perform a Stalk Block from the WR Position
 
 - **Identify Your Defender:**
-    - Usually the cornerback or outside linebacker lined up across from you.
+    - Usually the cornerback or outside linebacker lined up across from you
 - **Maintain Position:**
-    - Keep yourself between the defender and the ball carrier.
+    - Keep yourself between the defender and the ball carrier
 - **Drive and Control:**
-    - Use your legs to drive the defender backward.
-    - Stay low and balanced to maintain control.
+    - Use your legs to drive the defender backward
+    - Stay low and balanced to maintain control
 
 ### `2` Inside Blocks
 
@@ -46,9 +46,9 @@ some blurb
 #### Inside Block Route Breakdown
 
 - **Outside Receiver:**
-    - Block the defender lined up on the Inside Receiver or the most dangerous man (MDM).
+    - Block the defender lined up on the Inside Receiver or the most dangerous man (MDM)
 - **Inside Receiver:**
-    - Block the MDM, often the defensive end (DE) or the linebacker (LB) lined up inside.
+    - Block the MDM, often the defensive end (DE) or the linebacker (LB) lined up inside
 
 ### `3` Pin & Pull Blocks
 
@@ -56,11 +56,11 @@ some blurb
 #### Pin and Pull Block Specifics
 
 - **Outside Receiver:**
-	- Block the defender lined up on the Inside Receiver or the MDM.
+	- Block the defender lined up on the Inside Receiver or the MDM
 - **Inside Receiver:**
-    - Pin the DE to free the offensive tackle (OT).
+    - Pin the DE to free the offensive tackle (OT)
 - **Offensive Tackle (OT):**
-    - Skip pull to the outside to be a lead blocker.
+    - Skip pull to the outside to be a lead blocker
 
 ## WR Screen Routes
 
@@ -70,29 +70,29 @@ some blurb
 #### Crack Screen Route Breakdown
 
 - **Inside Receiver:**
-    - Run towards the LOS then directly to the sideline to prepare to receive the screen pass.
-    - Catch the ball quickly and turn upfield.
+    - Run towards the LOS then directly to the sideline to prepare to receive the screen pass
+    - Catch the ball quickly and turn upfield
 - **Outside Receiver:**
-    - Block the defender lined up on the Inside Receiver or the MDM.
+    - Block the defender lined up on the Inside Receiver or the MDM
 ### `5` Bubble Screen
 
 ![[Pasted image 20240724083938.png]]
 #### Bubble Screen Route Breakdown
 
 - **Outside Receiver:**
-	- Stalk block your defender.
+	- Stalk block your defender
 - **Inside Receiver:**
-	- Run towards the LOS then directly to the sideline to prepare to receive the screen pass.
+	- Run towards the LOS then directly to the sideline to prepare to receive the screen pass
 ### `6` Smoke Screen
 
 ![[Pasted image 20240724084001.png]]
 #### Smoke Screen Route Breakdown
 
 - **Inside Receiver:**
-	- Block the defender lined up on the Outside Receiver or the MDM.
+	- Block the defender lined up on the Outside Receiver or the MDM
 - **Outside Receiver:**
-	- Fake running forward, turn, and wait for the pass.
-    - Catch the ball quickly and turn upfield.
+	- Take a step running forward (do not cross the LOS), turn, and wait for the pass
+    - Catch the ball quickly and turn upfield
 
 
 ## WR Passing Routes
@@ -101,40 +101,40 @@ some blurb
 
 - **Stance and Start:**
     - Begin in your usual wide receiver stance.
-    - Ensure your weight is balanced and you're ready to explode off the line of scrimmage.
+    - Ensure your weight is balanced and you're ready to explode off the line of scrimmage
 - **Release Technique:**
-    - Use a variety of release moves to get off the line of scrimmage and avoid jams from defenders.
-    - Practice techniques such as the stutter step, swim move, and jab step to create separation.
+    - Use a variety of release moves to get off the line of scrimmage and avoid jams from defenders
+    - Practice techniques such as the stutter step, swim move, and jab step to create separation
 - **Route Precision:**
-    - Run your routes with precision and discipline.
-    - Focus on your footwork and timing to ensure you are where you need to be when the quarterback is ready to throw.
+    - Run your routes with precision and discipline
+    - Focus on your footwork and timing to ensure you are where you need to be when the quarterback is ready to throw
 - **Acceleration:**
-    - Explode off the line of scrimmage and reach your top speed quickly.
-    - Maintain that speed throughout the route to keep the defender on their heels.
+    - Explode off the line of scrimmage and reach your top speed quickly
+    - Maintain that speed throughout the route to keep the defender on their heels
 - **Break Points:**
-    - Execute sharp, crisp cuts at your break points to create separation from the defender.
-    - Use head fakes and shoulder dips to sell your route and make it harder for the defender to read.
+    - Execute sharp, crisp cuts at your break points to create separation from the defender
+    - Use head fakes and shoulder dips to sell your route and make it harder for the defender to read
 - **Catching Technique:**
-    - Keep your hands up and ready to catch the ball.
-    - Watch the ball into your hands and secure it before turning upfield.
+    - Keep your hands up and ready to catch the ball
+    - Watch the ball into your hands and secure it before turning upfield
 - **Adjusting to the Ball:**
-    - Be prepared to adjust your route and body position to catch the ball.
-    - Track the ball in the air and make the necessary adjustments to catch it cleanly.
+    - Be prepared to adjust your route and body position to catch the ball
+    - Track the ball in the air and make the necessary adjustments to catch it cleanly
 - **Awareness:**
-    - Be aware of the sideline and other boundaries.
-    - Know where the first down markers and end zones are, and adjust your route to achieve the play’s goal.
+    - Be aware of the sideline and other boundaries
+    - Know where the first down markers and end zones are, and adjust your route to achieve the play’s goal
 - **Communication:**
-    - Communicate with your quarterback and fellow receivers.
-    - Make sure everyone is on the same page regarding routes, audibles, and adjustments.
+    - Communicate with your quarterback and fellow receivers
+    - Make sure everyone is on the same page regarding routes, audibles, and adjustments
 - **Practice:**
-    - Repetition is key to mastering your routes.
-    - Work on each route in practice to improve your timing, precision, and consistency.
+    - Repetition is key to mastering your routes
+    - Work on each route in practice to improve your timing, precision, and consistency
 - **Conditioning:**
-    - Stay in top physical shape to maintain speed and endurance throughout the game.
-    - Incorporate route running drills into your conditioning routine to build stamina and muscle memory.
+    - Stay in top physical shape to maintain speed and endurance throughout the game
+    - Incorporate route running drills into your conditioning routine to build stamina and muscle memory
 - **Mental Preparation:**
-    - Study the playbook and understand your role in each route combination.
-    - Visualize running your routes and making plays to build confidence and mental toughness.
+    - Study the playbook and understand your role in each route combination
+    - Visualize running your routes and making plays to build confidence and mental toughness
 
 Remember, effective route running is a combination of speed, precision, and awareness. Focus on these fundamentals to become a reliable and dynamic receiver on the field.
 
@@ -144,11 +144,11 @@ Remember, effective route running is a combination of speed, precision, and awar
 #### Hawk Route Combo Breakdown
 
 - **Inside Receiver**
-    - Run straight upfield for 10 yards.
-    - Make a sharp 90-degree cut towards the sideline to run an out route.
+    - Run straight upfield for 10 yards
+    - Make a sharp 90-degree cut towards the sideline to run an out route
 - **Outside Receiver**
-    - Run a streak route, aiming to get to a spot about 6 yards from the sideline.
-    - Focus on getting outside the coverage.
+    - Run a streak route, aiming to get to a spot about 6 yards from the sideline
+    - Focus on getting outside the coverage
 ### `12` Dagger
 
 ![[Pasted image 20240724094814.png]]
@@ -156,8 +156,8 @@ Remember, effective route running is a combination of speed, precision, and awar
 - **Inside Receiver**
     - Run a streak route
 - **Outside Receiver**
-    - Run straight upfield for 10 yards.
-    - Make a sharp 90-degree cut towards the middle of the field to run an dig route.
+    - Run straight upfield for 10 yards
+    - Make a sharp 90-degree cut towards the middle of the field to run an dig route
 
 ### `13` Smash
 
@@ -165,12 +165,12 @@ Remember, effective route running is a combination of speed, precision, and awar
 #### Smash Route Combo Breakdown
 
 - **Inside Receiver**
-    - Run vertically for 8-10 yards.
-    - Make a sharp 45-degree cut towards the corner of the field.
+    - Run vertically for 8-10 yards
+    - Make a sharp 45-degree cut towards the corner of the field
 - **Outside Receiver**
-    - Run vertically for 5-7 yards.
-    - Make a sharp break back towards the quarterback for a hitch route.
-    - Come back to the ball; don't wait for it to get to you.
+    - Run vertically for 5-7 yards
+    - Make a sharp break back towards the quarterback for a hitch route
+    - Come back to the ball; don't wait for it to get to you
     - If there is space, you make this be an `out` to get away from the defender
 ### `14` 66 (Slot-Fade)
 
