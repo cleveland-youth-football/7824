@@ -18,28 +18,28 @@
 
 # 6-Man Box
 
-### DL
+## DL
 
 These players line up _on_ the LOS (line of scrimmage) and attack the offense every down. It is important that these players don't jump offside on defense. Either watch the ball and don't move until it does, or watch the offensive player across from you and wait for them to move.
 
-#### DEs
+### DEs
 - there are two "boxing" DEs (defensive ends) wider than either side of the offensive line; they will attempt to redirect any plays moving laterally left or right to go back to the middle or at the very least, below them. The reason is to direct the ball back to the majority of the defense in the center of the field. These players should _NEVER_ have a play or player go over them, up field from them.  
 - the DEs should be in a sprinter stance with outside foot back. Then at the snap of the ball, move low and with speed to put their inside hand in the middle of the OT's(offensive tackle) chest. Their outside arm should remain free and they should get 4yd in the backfield. Once there if it is a pass, they can pursue the quarterback, but not before getting to this position.
 - if the play moves away from their side, they can pursue directly towards the sideline but _NEVER_ crash down. The reason for this is they need to be there if the ball reverses back towards them, either intentionally or unintentionally.
 ###### note: These players are very important to counteract what most offenses at this level want to do; go left, go right
-#### NT
+### NT
 - Aligned directly over the **G** at a "2"
 - At the snap ball the player will knife to the **A** or **B** gap based upon play call
 - This player is always on the weak side of the formation, away form the strength.
 - This player is paired with **M** (middle linebacker "Mike") for knowing which gap (A or B) they are responsible for and need to attack
 
-#### DT
+### DT
 - Aligned directly over the **G** at a "2"
 - At the snap ball the player will knife to the **A** or **B** gap based upon play call
 - This plays is always on the strength side of the formation
 - This player is paired with **S** (strong linebacker, "Sam") for knowing which gap (A or B) they are responsible for and need to attack
 
-### LBs
+## LBs
 
 These are the aggressive run stopping, covering and blitzing players. They _must_ be tough and great tacklers. They will see a lot action. They must be smart and know what their assignment is and what gap they are responsible for. If they are covering a player out of the back field they must be good on tracking them down over long distances. 
 
@@ -47,18 +47,18 @@ These are the aggressive run stopping, covering and blitzing players. They _must
 - at the snap of the ball, _ALWAYS_ take 2 "read steps" forward
 - if your partner takes the **B** gap then you have the **A** gap; includes blitzes
 - if your partner takes the **A** gap then you have the **B** gap; includes blitzes
-#### M
+### M
 - **M** is partnered with the **NT** on the weak side of the formation
-#### S
+### S
 - **S** is partnered with the **DT** on the strong side of the formation
 
 
 [[6-man-box-playcalls]]
 
-# Secondary
+## Secondary
 
 These players are primarily covering potential receivers. However, they also have responsibilities in the run game. 
-#### R
+### R
 - could be considered an `OLB` (outside linebacker) in a 4-4 scheme
 - these players take "read steps" just like the **LBs**, but they are backwards at the snap of the ball. The exception might be for the **R** and **W** who are similar to LBs (and what make this defense similar to a  4-4). 
 - these are apex players and align between the #2 receiver (the CB takes #1) and where the DE on their side lines up.
@@ -66,13 +66,13 @@ These players are primarily covering potential receivers. However, they also hav
 - if the offense is 3x1 the player will press the #2 WR
 - always aligned to the strength of the offense formation; sometimes to the "field" or the wide side of the field
 - take two read steps just like the 
-#### W
+### W
 - could be considered an `OLB` (outside linebacker) in a 4-4 scheme
 - these players take "read steps" just like the **LBs**, but they are backwards at the snap of the ball. The exception might be for the **R** and **W** who are similar to LBs (and what make this defense similar to a  4-4). 
 - these are apex players and align between the #2 receiver (the CB takes #1) and where the DE on their side lines up.
 - if there is no number #2 receiver or there is only one TE on their side, they line up 3x3yds off of the last offensive player (OT or TE) and off the LOS
 - always aligned opposite the **R** and to the weak side of the offense formation; sometimes to the "boundary" or the short side of the field
-#### F
+### F
 - the safety aligns to the strength of the formation at 10-12yds off of the LOS
 - they take 2 read steps backwards
 - they are the last line of defense and _cannot get beat deep_
