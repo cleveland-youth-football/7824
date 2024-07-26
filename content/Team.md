@@ -1,4 +1,4 @@
-A football team has lot's of people to make it possible!  Here is some information on some of the types of people involved in the campaign.
+A football team has lot's of people to make it possible!  Here is some information about the people involved in the campaign.
 
 # Who Are We? 
 - physically fit, aggressive
