@@ -60,19 +60,22 @@ words
 - meanwhile the play side `G` and the two `Ts` skip to blocking the `LBs` directly
 #### Power/Counter `Rado`
 
+- like `trap`, `power/counter` features gap-scheme blocking; this means players have designated defenders to block before the ball is snapped
+- for both `power` and `counter`, the `DE` is unblocked, because the PS (playside) `T` and `G` double team the inside down lineman (`NT` or `DT`) and work back to the _2nd_ `LB`, leaving the 1st for the wrapping player
+- `power` / `counter` are physical runs because every block with leverage with players having clear assignments
+- for simplicity, we have made `power` always go to the strength of the formation and `counter` to weak
+- `power` and `counter` blocking is exactly the same except which player "kicks" and which "wraps"
+
 ##### Power (Strong)
 ![[Pasted image 20240725115853.png]]
-
+- `power` has the `H` "kick out" the unblocked `DE`; the pulling `G` wraps through the hole to block the PS (play side) `LB`
 ##### Counter (Weak)
 ![[Pasted image 20240725115912.png]]
+- `counter` is the opposite with the `G` "kicking out" and the `H` "wrapping" through the hole to block the PS `LB`
 
-- gap scheme
-- `power` and `counter` blocking is exactly the same except which player "kicks" and which "wraps"
-	- `power` has the `H` "kick out" the unblocked `DE`; the pulling `G` wraps through the hole to block the PS (play side) `LB`
-	- `counter` is the opposite with the `G` "kicking out" and the `H` "wrapping" through the hole to block the PS `LB`
-	- for both, the `DE` is on blocked, because the PS `T` and `G` double team the inside down lineman (`NT` or `DT`) and work back to the _2nd_ `LB`, leaving the 1st for the wrapping player
-	- `power` / `counter` are physical runs because every block with leverage with players having clear assignments
-	- for simplicity, we have made `power` always go to the strength of the formation and `counter` to weak
+	
+	
+	
 #### Inside Zone `Indy`
 ![[Pasted image 20240725120031.png]]
 
@@ -94,21 +97,29 @@ words
 
 #### Snack `Kota`
 
+This family feature thee routes that can be run by different players and different positions. The routes
+- clear out on the outside
+- flat
+- and the `stop` or `stick` route just inside the force player 
+- 
+This play puts the outside defender in conflict. He can't be right. The `Q` should throw wherever he isn't.
+
 ##### Stick
 ![[Pasted image 20240725120628.png]]
-
+- #1 WR runs the clear out streak, with a mandatory-outside-release (mor)
+- #2 WR runs the `stick` route 1yd behind and 1yd inside of where the `OLB` was at the snap
+- the `T`, `H` or #3 WR runs to the `flat`
 ##### Snag
 ![[Pasted image 20240725120640.png]]
-
+- #1 WR runs the `stop` or `snag` route in the same position as `stick`; 1yd behind and 1yd inside of the `OLB`
+- #2 WR runs the `corner` route at 8-10 yards
+- the `T`, `H` or #3 WR runs to the `flat`
 ##### Bow
 ![[Pasted image 20240725133103.png]]
+- #1 WR runs the `stop` or `snag` route in the same position as `stick`; 1yd behind and 1yd inside of the `OLB`
+- #2 WR runs the `dig` route at 8-10 yards
+- the `T`, `H` or #3 WR runs to the `flat`
 
-
-- three very similar concepts
-	- v1 `stick`
-	- v2 `snag`
-	- v2 `bow`
-- 3 player where a player sits near the apex defender, another in the flat and a clear out route. The apex player can't cover both the sit route AND the flat
 #### Mesh `Mich`
 ![[Pasted image 20240725120817.png]]
 
