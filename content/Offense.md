@@ -78,8 +78,7 @@ words
 	
 #### Inside Zone `Indy`
 ![[Pasted image 20240725120031.png]]
-
-- state: Indiana
+- 
 #### Outside Zone `Okie`
 ![[Pasted image 20240725120121.png]]
 
@@ -97,15 +96,16 @@ words
 
 #### Snack `Kota`
 
-This family feature thee routes that can be run by different players and different positions. The routes
+This family features three routes that can be run by different players and different positions. The routes
 - clear out on the outside
 - flat
 - and the `stop` or `stick` route just inside the force player 
 - 
-This play puts the outside defender in conflict. He can't be right. The `Q` should throw wherever he isn't.
+This play puts the outside defender in conflict between covering the `stick` and the `flat`. He can't be right. The `Q` should throw wherever he isn't.
 
 ##### Stick
-![[Pasted image 20240725120628.png]]
+![[Pasted image 20240725183702.png]]
+
 - #1 WR runs the clear out streak, with a mandatory-outside-release (mor)
 - #2 WR runs the `stick` route 1yd behind and 1yd inside of where the `OLB` was at the snap
 - the `T`, `H` or #3 WR runs to the `flat`
@@ -124,7 +124,7 @@ This play puts the outside defender in conflict. He can't be right. The `Q` shou
 ![[Pasted image 20240725120817.png]]
 
 - inside WRs slap hands as the `H` goes _under_ the `Y`
-- `H`should pop free on the other side of the OL after clearing the `Y` and `Z` running "rub routes"
+- the `under` route`H`, should pop free on the other side of the OL after clearing the `Y` and `Z` running "rub routes"
 #### Cross `Hai`
 - two similar concepts
 	- v1 `y-cross`
@@ -133,7 +133,7 @@ This play puts the outside defender in conflict. He can't be right. The `Q` shou
 ![[Pasted image 20240725120926.png]]
 
 ##### Shallow Cross
-![[Pasted image 20240725120950.png]]
+![[Pasted image 20240725183729.png]]
 
 
 #### Flood `Flo`
