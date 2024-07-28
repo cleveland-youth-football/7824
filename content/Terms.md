@@ -1,0 +1,4 @@
+- `MDM`: most dangerous man; this means the defender in the best position to disrupt the offensive play or make a tackle
+- `MOR`: mandatory outside release; this is to tell WRs that they need to release to the outside at the snap of the ball and get the defender, usually a DB, to turn their hips and head away from the QB
+- `LOS` line of scrimmage; this is the shorthand to describe the invisible line that represents the two sides of the ball, offense and defense, before the snap of the ball to begin the play
+- `EMOL` end man on the LOS; this refers to the last player on the line of scrimmage; this is usually the DE (Defensive End) but it could be an OLB (Outside Linebacker) rolling up to the LOS
