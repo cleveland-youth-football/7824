@@ -73,8 +73,17 @@ Parents are the ultimate fans for the team, both for their athletes as well as t
 	- 503|999|0803
 	- scott.a.idler@gmail.com
 - Coach Cory Restvedt
-	- 503
+	- 503|929|2274
+	- crestvedt@icloud.com
 - Coach Brad Evenhus
+	- 503|267|6131
+	- bevenhus96@gmail.com
 - Coach Philip Kelsven
+	- 503|358|3920
+	- phkelsven@yahoo.com
 - Coach Mike Meade
+	- 503|250|1743
+	- mikemeade@mailcan.com
 - Coach Sean McCormick (recent HS grad; whom I coached when he was in 8th grade!)
+	- 503|839|0620
+	- syncr0708@gmail.com

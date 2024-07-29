@@ -2,7 +2,8 @@
 
 [[Conditioning]]
 
+[[Practice]]
+
 [[Defense]]
 
 [[Offense]]
-
