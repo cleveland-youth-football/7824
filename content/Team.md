@@ -1,5 +1,10 @@
 A football team has lot's of people to make it possible!  Here is some information about the people involved in the campaign.
 
+
+# Cleveland Values
+- Integrity
+- Discipline
+- Commitment 
 # Who Are We? 
 - physically fit, aggressive
 - well prepared and organized
@@ -28,6 +33,7 @@ This whole endeavor is about the youth football players.  Everything we do will 
 
 #### Expectations
 - should be on time to practice and games; of course communication a head of time for exceptions is fine
+-  Be respectful of parents, coaches, staff and of each other
 - players should represent themselves and the organization well
 	- no cussing at practice, game or when attending any Cleveland Youth Football function
 	- no arguing or fighting with teammates
@@ -59,9 +65,15 @@ Parents are the ultimate fans for the team, both for their athletes as well as t
 - Trevor Smith
 #### Youth Football President
 - Bryan Buck
+	- 503|269|8108
+	- [bryansbuck@gmail.com](mailto:bryansbuck@gmail.com)  
+
 #### Youth Football Coaching Staff
-- [[Coach Scott Idler]] 503|999|0803
+- [[Coach Scott Idler]] 
+	- 503|999|0803
+	- scott.a.idler@gmail.com
 - Coach Cory Restvedt
+	- 503
 - Coach Brad Evenhus
 - Coach Philip Kelsven
 - Coach Mike Meade
