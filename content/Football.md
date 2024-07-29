@@ -1,4 +1,5 @@
 [[Practice]]
+- here is our practice schedule and plans
 
 [[Terms]]
 - some common football terms
@@ -10,8 +11,8 @@
 [[Tackling]]
 - rugby style 
 
-
-
 [[Defense]]
+- 4-2-5 (similar to 4-4)
 
 [[Offense]]
+- spread `2x1`, `2x2` and `3x1`

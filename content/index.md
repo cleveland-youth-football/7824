@@ -2,16 +2,12 @@
 title: Welcome to CYF for 7/8 in 2024
 ---
 ## What's New?
-- added some detail around WR routes
-- cleaned up the Team area
-- adding some diagrams and guidelines around  our offensive plays
-- moved Defense and Offense under Football
-- added a Terms section under Football
-- added the rulebook and the operations guide
+- added a bunch of videos around conditioning and our playbook
+- watch them
 
-## [[Team]]
+# [[Football]]
 
-[[Football]]
+## [[Our Team]]
 
 ## TVYFL
 - [TVYFL Calendar](https://www.tvyfl.org/calendar)
