@@ -17,6 +17,9 @@ tags:
   - matt-jones
   - offensive-line
   - podcast
+  - power
+  - counter
+  - trap
 url: https://www.youtube.com/watch?v=1JRLs9o5YvA
 author: American Football Coaches Association
 published: 2018-09-06T15:10:25Z

@@ -8,6 +8,7 @@ tags:
   - nfl
   - the-qb-school
   - qb-school
+  - snag-concept
 url: https://www.youtube.com/watch?v=0CGp6nHiYZg
 author: The QB School
 published: 2020-09-04T13:43:01Z

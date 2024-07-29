@@ -710,6 +710,15 @@ and contains(tags, "outside-zone")
 or contains(tags, "wide-zone")
 or contains(tags, "zone-blocking")
 ```
+
+## Pass Protection
+```dataview
+list
+from "football"
+where type = "link"
+and contains(tags, "pass-protection")
+```
+
 ## Stick
 ```dataview
 list
@@ -770,4 +779,7 @@ and !contains(tags, "smash")
 and !contains(tags, "shock")
 and !contains(tags, "dragon")
 and !contains(tags, "post-wheel")
+and !contains(tags, "tackle")
+and !contains(tags, "conditioning")
+and !contains(tags, "pass-protection")
 ```

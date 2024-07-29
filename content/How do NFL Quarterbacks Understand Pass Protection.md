@@ -8,6 +8,7 @@ tags:
   - quarterback
   - all-22
   - nfl
+  - pass-protection
 url: https://www.youtube.com/watch?v=CeWRO9XkD6E
 author: The QB School
 published: 2020-04-15T13:00:05Z

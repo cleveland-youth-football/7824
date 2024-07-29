@@ -10,6 +10,9 @@ tags:
   - football-coach-clinics
   - high-school-football
   - highschool-football
+  - counter
+  - power
+  - trap
 url: https://www.youtube.com/watch?v=BSBAlVrYdlk
 author: Glazier Clinics
 published: 2024-02-22T17:48:28Z

@@ -29,6 +29,7 @@ tags:
   - pro-football
   - texas-high-school-football
   - ncaafb
+  - tackle
 url: https://www.youtube.com/watch?v=XoU7pLcbeXE
 author: Atavus Football
 published: 2020-08-28T12:40:28Z

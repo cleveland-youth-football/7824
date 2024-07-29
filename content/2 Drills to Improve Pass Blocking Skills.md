@@ -6,6 +6,7 @@ tags:
   - coaching-youth-football
   - pass-blocking
   - running-back-drills
+  - pass-protection
 url: https://www.youtube.com/watch?v=zv3AMpUYz0c
 author: Football Tutorials
 published: 2013-04-16T14:45:51Z

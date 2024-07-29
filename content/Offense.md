@@ -1,4 +1,3 @@
-# Offense
 
 [[2WR Routes]]
 
@@ -58,6 +57,11 @@ words
 - the other `G` leaves the `DT` (mentioned above) for an inside `LB`
 - This play is quick hitting and leaves the `DEs` unblocked because they won't have an opportunity to get in on the play
 - meanwhile the play side `G` and the two `Ts` skip to blocking the `LBs` directly
+##### videos
+- [[Football 101 Trap]]
+- [[Kick Out Pulls on Trap and Counter- LINEPROTIPS 006]]
+- [[Offensive Line Gap Scheme Drills]]
+- [[Matt Jones - Offensive Line Pulling Techniques]]
 #### Power/Counter `Rado`
 
 - like `trap`, `power/counter` features gap-scheme blocking; this means players have designated defenders to block before the ball is snapped
@@ -69,28 +73,70 @@ words
 ##### Power (Strong)
 ![[Pasted image 20240725115853.png]]
 - `power` has the `H` "kick out" the unblocked `DE`; the pulling `G` wraps through the hole to block the PS (play side) `LB`
+##### Videos
+- [[Football 101 Power]]
+- [[Preview of Offensive Line Manual for Gap-Down-Backer]]
+- [[Single Back Power Part III]]
+- [[How to Run Single Back Power Part IV]]
+- [[Offensive Line Gap Scheme Drills]]
+- [[Power Up Your Drive Blocks- LINEPROTIPS 005]]
+- [[Matt Jones - Offensive Line Pulling Techniques]]
 ##### Counter (Weak)
 ![[Pasted image 20240725115912.png]]
 - `counter` is the opposite with the `G` "kicking out" and the `H` "wrapping" through the hole to block the PS `LB`
-
+##### Videos
+- [[Football 101 Counter]]
+- [[How To Run The Counter Play In Football - Complete Guide]]
+- [[Preview of Offensive Line Manual for Gap-Down-Backer]]
+- [[3 SIMPLE WAYS to Run Counter]]
+- [[Counter Trey with Jet Motion]]
+- [[Counter in the Spread Offense Running Game]]
+- [[Oklahoma Sooners GT Counter]]
+- [[Matt Jones - Offensive Line Pulling Techniques]]
 	
 	
 	
 #### Inside Zone `Indy`
 ![[Pasted image 20240725120031.png]]
-- 
+- items
+##### Videos
+- [[Inside Zone Spread Running Game]]
+- [[Inside Zone Blocking Rules]]
+- [[2-Minute Drill Basic Zone Blocking]]
+- [[Coaching 101 Inside vs Outside Zone]]
+- [[Inside Zone vs Wide Zone Differences]]
+- [[Combining Three Plays In The Split Zone Package]]
+- [[Teach Zone Blocking In 10 min]]
+- [[Zone Blocking Families]]
+- [[Even Front vs Inside Zone]]
+
 #### Outside Zone `Okie`
 ![[Pasted image 20240725120121.png]]
-
-- state: Oklahoma
+- state: items
+##### Videos
+- [[Football 101 Outside Zone]]
+- [[Stretch - Outside Zone In The Spread Offense]]
+- [[Block Outside Zone LIKE THIS]]
+- [[Oregon wide zone clinic]]
+- [[2-Minute Drill Basic Zone Blocking]]
+- [[Coaching 101 Inside vs Outside Zone]]
+- [[Inside Zone vs Wide Zone Differences]]
+- [[Teach Zone Blocking In 10 min]]
+- [[Zone Blocking Families]]
 #### Option `Ore`
 ![[Pasted image 20240725120150.png]]
-
-- state: Oregon
+- items
+##### Videos
+- [[Quarterback Training - Option Pitch Drill]]
+- [[3 Tips for a Successful Speed Option Glazier Clinics - YouTube]]
+- [[Tennessee running shovel and speed option]]
+- [[Use These 2 Speed Option Variations Dordt Football]]
 #### Jet `Jersey`
 ![[Pasted image 20240725120223.png]]
-
 - item
+##### Videos
+- [[Football 101 Jet Sweep]]
+- [[Dynamic Play Review - Jet Motion WR Screen Huge Block]]
 
 ### Pass
 
@@ -105,26 +151,42 @@ This play puts the outside defender in conflict between covering the `stick` and
 
 ##### Stick
 ![[Pasted image 20240725183702.png]]
-
 - #1 WR runs the clear out streak, with a mandatory-outside-release (mor)
 - #2 WR runs the `stick` route 1yd behind and 1yd inside of where the `OLB` was at the snap
 - the `T`, `H` or #3 WR runs to the `flat`
+##### Videos
+- [[How To Run The Stick Concept]]
+- [[The Stick Concept Why It Works Against Anything]]
 ##### Snag
 ![[Pasted image 20240725120640.png]]
 - #1 WR runs the `stop` or `snag` route in the same position as `stick`; 1yd behind and 1yd inside of the `OLB`
 - #2 WR runs the `corner` route at 8-10 yards
 - the `T`, `H` or #3 WR runs to the `flat`
+##### Videos
+- [[Football 101 Snag Concept]]
+- [[Snag Concept in the Spread Offense]]
+- [[Ohio State Snag Concept]]
+- [[Xs Os The Snag and Spot Concepts]]
+
 ##### Bow
 ![[Pasted image 20240725133103.png]]
 - #1 WR runs the `stop` or `snag` route in the same position as `stick`; 1yd behind and 1yd inside of the `OLB`
 - #2 WR runs the `dig` route at 8-10 yards
 - the `T`, `H` or #3 WR runs to the `flat`
+##### Videos
+- [[How to Run the Bow Concept]]
 
 #### Mesh `Mich`
 ![[Pasted image 20240725120817.png]]
 
 - inside WRs slap hands as the `H` goes _under_ the `Y`
 - the `under` route`H`, should pop free on the other side of the OL after clearing the `Y` and `Z` running "rub routes"
+##### Videos
+- [[Football 101 The Mesh Concept]]
+- [[The easiest way to run Mesh]]
+- [[Drew Piscopo Mesh out of 2 x 2]]
+- [[How Hal Mumme Teaches the Air Raid Mesh Concept]]
+- [[Offense Passing concepts MESH and SHALLOW CROSS]]
 #### Cross `Hai`
 - two similar concepts
 	- v1 `y-cross`
@@ -133,20 +195,33 @@ This play puts the outside defender in conflict between covering the `stick` and
 ![[Pasted image 20240725120926.png]]
 - `Y` is getting across the field to the far hash at 12yds
 - `Y` must go _under_ the `S` linebacker and _over_ the `M`linebacker, getting vertical while passing between where they lined up, then flattening out on way to the far hash
+##### Videos
+- [[Running 95 Y-CROSS 3 X 1 in the Air Raid Offense]]
+- [[The Complete Guide To Y-Cross 10 Variations]]
 ##### Shallow Cross
 ![[Pasted image 20240725183729.png]]
 - the shallow cross player must `drag` across the field on the `LOS` or the heels of the DL
 - the opposite #2 WR has a `MOR` and then runs a `dig/in` at 10yds
+##### Videos
+- [[Xs Os Shallow Cross]]
+- [[BEST MAN TO MAN Beater - The Air Raid Shallow Cross Concept]]
+- [[Offense Passing concepts MESH and SHALLOW CROSS]]
 
 #### Flood `Flo`
 ![[Pasted image 20240725121047.png]]
-
 - flood concept where you "flood" one side of the field with most of the WRs
 - setup with we fake zone run and boot
+##### Videos
+- [[How To Run The Flood Concept]]
+- [[Anatomy of a Play WR Split Zone Flood Concept]]
+- [[NFL Flood concepts]]
+- [[How To Run The Play Action Boot Pass]]
 #### Yankee `York`
 ![[Pasted image 20240725121122.png]]
-
 - this is a shot play where you try to hit a home run
+##### Videos
+- [[Football 101 Yankee Concept]]
+- [[How To Run The Yankee Concept Deep Shot]]
 #### Cheese `Wisc`
 ![[Pasted image 20240725121204.png]]
 

@@ -5,6 +5,7 @@ time: 10:01
 tags:
   - aggies
   - sports
+  - conditioning
 url: https://www.youtube.com/watch?v=m5M9PbVyxDo
 author: KAGSTV
 published: 2020-03-03T03:42:38Z
