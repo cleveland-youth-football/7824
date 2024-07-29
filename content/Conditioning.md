@@ -2,7 +2,7 @@
 
 [[The Baby Park Run]]
 
-[[The Burpee]]
+[[Burpee]]
 
 [[Up-Down]]
 
