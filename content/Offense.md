@@ -131,10 +131,12 @@ This play puts the outside defender in conflict between covering the `stick` and
 	- v2 `shallow cross`
 ##### Y-Cross
 ![[Pasted image 20240725120926.png]]
-
+- `Y` is getting across the field to the far hash at 12yds
+- `Y` must go _under_ the `S` linebacker and _over_ the `M`linebacker, getting vertical while passing between where they lined up, then flattening out on way to the far hash
 ##### Shallow Cross
 ![[Pasted image 20240725183729.png]]
-
+- the shallow cross player must `drag` across the field on the `LOS` or the heels of the DL
+- the opposite #2 WR has a `MOR` and then runs a `dig/in` at 10yds
 
 #### Flood `Flo`
 ![[Pasted image 20240725121047.png]]

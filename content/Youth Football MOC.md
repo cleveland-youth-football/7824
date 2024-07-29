@@ -7,6 +7,58 @@ type: moc
 ---
 # Youth Football MOC
 
+
+[[Offense]]
+
+## What I to avoid
+- Talk about football 
+- Not have to change our offense after the first game
+- Not be rah-rah, trying to motivate our kids
+- Not be out of gas in the second half of the game
+- Not be disorganized
+- Not take forever to figure out what kids we have and how to use them
+- Be poor at tackling
+- Be poor at blocking
+- Have behavioral problems (especially on the sideline during a game)
+- Be unprepared for special teams
+- Complain about officiating or specific calls
+- Have our players reflect poorly on Cleveland or the team
+- Having kids standing around; they should be exhausted by the end of every practice
+
+## What I want to do
+- Practice `BLOCKING` and `TACKLING` everyday 
+- We run everywhere we go; on and off the field; to water; back, etc
+- Be a physically fit and prepared team
+- We need both. If they aren't focused we will just work on our fitness
+- Develop toughness and aggressiveness on our team (know the difference between `hurt` and `injured`)
+- Take advantage of 2-3 (maybe more) very special athletes we have on our team
+- Use motion, especially moving across the formation to confuse the defense
+- Run the same plays out of 3 primary formations to make it easier on us and difficult on the defense
+- use the 4-2-5 defense (different from my 5-3) to match the HS and bring pressure with 5 and 6 man blitzes
+- Have WRs wear wrist bands too (probably need 10 for them alone)
+- Use visual system to make it easy on `Q` and offense to know what they are doing
+- Have a distinct depth chart (at least 2 deep at important positions)
+- Have a substitution plan where we put no more that 1-2 `10-play` players on the field at the same time
+- Have a plan to try to get all of their `10-plays` satisfied _before_ the 4th quarter
+- Use our large coaching staff to improve these players so they _aren't_ `10-play` players
+- Install the Defense and Offense early so that we can just *rep it over and over*
+- Run drills that help us achieve what we are trying to do on offense and defense
+- Have a captain of the 6 in the "box"; probably the Mike
+	- N
+	- T
+	- DEs
+	- S
+	- M
+- Have a captain of the secondary; probably the Safety
+	- W
+	- R
+	- Cs
+	- F
+- 2 kinds of Dad coaches
+	- We only have one kind
+- Get contact information and team comms setup ASAP
+
+
 ## Culture
 - The way `WE` do things `HERE`
 
@@ -554,23 +606,24 @@ Everyone needs to know
 #### Blocking
 1. `Stock`
 2. `Inside`
-3. `Pin & Pull`
+3. `Pin & Pull` (includes the OT nearest the #2 WR)
 
 #### Screen
-1. `Bubble`
-2. `Smoke`
-3. `Crack`
+1. `Crack`
+2. `Bubble`
+3. `Smoke`
 
 #### Routes
 1. `Hawk`
 2. `Dagger`
 3. `Smash`
-4. `Shock`
+4. `66` (Fade-Hitch)
 5. `Dragon`
 6. `Drive`
 7. `Fork` (Post-Follow)
 8. `Wheelie` (Post-Wheel)
 9. `Whippie` (Whip-Wheel)
+10. `Pivot` (Snag-Wheel)
 
 ## Coach Areas
 
@@ -624,13 +677,7 @@ from "football"
 where type = "link"
 and contains(tags, "trap")
 ```
-## Dart
-```dataview
-list
-from "football"
-where type = "link"
-and contains(tags, "dart")
-```
+
 ## Counter
 ```dataview
 list
