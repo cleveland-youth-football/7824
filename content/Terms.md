@@ -6,3 +6,7 @@
 - `The Sidewalk` the area of the field between the bottom of the numbers and the sideline. Note: there is a sidewalk on each edge of the field
 - `The Alley` the area of the field between the top of the numbers and the nearest hash. Note: there is an `alley` on each side of the `center` of the field.
 - `The Middle or Center of the Field`; this the area of the field in between the hashes.
+- `OL` offensive line; one of the 5 players that must line up on the `LOS`
+- `DL` defensive line; one of the 3-5 players (4 in our system) that line up on the `LOS`
+- `OT`, `RT`, `LT`, `ST`, `WT`: offensive tackle, right, left, strong or weak; the outside player of the `OL` on either side of the ball.
+- `OG`, `RG`, `LG`, `SG`, `WT`: offensive guard, right, left, strong or weak; the player inside of the tackle, next to the `C`, center.
