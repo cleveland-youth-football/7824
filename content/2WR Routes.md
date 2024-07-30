@@ -104,6 +104,21 @@ This guide provides the necessary details to understand and execute these 2WR co
     - Catch the ball quickly and turn upfield
 
 
+### `S4` Motion Smoke Screen
+
+![[Pasted image 20240730130007.png]]
+#### Motion Smoke Screen Route Breakdown
+
+- **Motion Player:**
+	- The `Q` will put the player in motion
+	- The ball will be snapped as the player in motion approaches #2 WR position
+	- After the ball is snapped the player will bend towards the defender (usually the `CB`) and block them
+- **Inside Receiver:**
+	- Stalk block the defender lined up on you
+- **Outside Receiver:**
+	- Take a step running forward (do not cross the LOS), turn, and wait for the pass
+    - Catch the ball quickly and turn upfield
+
 # Passing Routes
 
 ### General Coaching Advice for Running Routes
@@ -147,28 +162,7 @@ This guide provides the necessary details to understand and execute these 2WR co
 
 Remember, effective route running is a combination of speed, precision, and awareness. Focus on these fundamentals to become a reliable and dynamic receiver on the field.
 
-### `R1` Hawk
-
-![[Pasted image 20240724084212.png]]
-#### Hawk Route Combo Breakdown
-
-- **Inside Receiver**
-    - Run straight upfield for 10 yards
-    - Make a sharp 90-degree cut towards the sideline to run an out route
-- **Outside Receiver**
-    - Run a streak route, aiming to get to a spot about 6 yards from the sideline
-    - Focus on getting outside the coverage
-### `R2` Dagger
-
-![[Pasted image 20240724094814.png]]
-#### Dagger Route Combo Breakdown
-- **Inside Receiver**
-    - Run a streak route
-- **Outside Receiver**
-    - Run straight upfield for 10 yards
-    - Make a sharp 90-degree cut towards the middle of the field to run an dig route
-
-### `R3` Smash
+### `R1` Smash
 
 ![[Pasted image 20240724094826.png]]
 #### Smash Route Combo Breakdown
@@ -181,7 +175,8 @@ Remember, effective route running is a combination of speed, precision, and awar
     - Make a sharp break back towards the quarterback for a hitch route
     - Come back to the ball; don't wait for it to get to you
     - If there is space, you make this be an `out` to get away from the defender
-### R4` 66 (Slot-Hitch)
+
+### `R2` 66 (Slot-Fade-Hitch)
 
 ![[Pasted image 20240724094838.png]]
 #### 66 (Slot-Fade) Route Combo Breakdown
@@ -195,7 +190,8 @@ Remember, effective route running is a combination of speed, precision, and awar
     - Make a sharp break back towards the quarterback for a hitch route
     - Come back to the ball; don't wait for it to get to you
     - If there is space, you make this be an `out` to get away from the defender
-### `R5` Dragon
+
+### `R3` Dragon
 
 ![[Pasted image 20240724094930.png]]
 #### Dragon Route Combo Breakdown
@@ -206,6 +202,29 @@ Remember, effective route running is a combination of speed, precision, and awar
 - **Outside Receiver**
 	- 1-3 yards then break at a 45 degree angle towards the `QB`
 	- get your head around and look for an immediate pass
+
+### `R4` Hawk
+
+![[Pasted image 20240724084212.png]]
+#### Hawk Route Combo Breakdown
+
+- **Inside Receiver**
+    - Run straight upfield for 10 yards
+    - Make a sharp 90-degree cut towards the sideline to run an out route
+- **Outside Receiver**
+    - Run a streak route, aiming to get to a spot about 6 yards from the sideline
+    - Focus on getting outside the coverage
+
+### `R5` Dagger
+
+![[Pasted image 20240724094814.png]]
+#### Dagger Route Combo Breakdown
+- **Inside Receiver**
+    - Run a streak route
+- **Outside Receiver**
+    - Run straight upfield for 10 yards
+    - Make a sharp 90-degree cut towards the middle of the field to run an dig route
+
 ### `R6` Drive
 
 ![[Pasted image 20240724094944.png]]
@@ -216,17 +235,8 @@ Remember, effective route running is a combination of speed, precision, and awar
 	- as you run across the middle of the field "setting down" in open areas, or "run away" from `man` defenders
 - **Outside Receiver**
 	- run a shallow `dig` / `in` at 5 yards
-### `R7` Fork (Post-Follow)
 
-![[Pasted image 20240724094957.png]]
-#### Fork (Post-Follow) Route Combo Breakdown
-
-- **Inside Receiver**
-	- run a `corner` route at 8-10 yards, breaking towards the sideilne at 45 degrees
-- **Outside Receiver**
-	- immediately run at angle to follow in the trail of the Inside WR
-	- when the Inside WR breaks outside for the `corner`, break at the same time for the `post`
-### `R8` Wheelie (Post-Wheel)
+### `R7` Wheelie (Post-Wheel)
 
 ![[Pasted image 20240724095021.png]]
 #### Wheelie (Post-Wheel) Route Combo Breakdown
@@ -237,7 +247,8 @@ Remember, effective route running is a combination of speed, precision, and awar
 	- this is now a `streak`
 - **Outside Receiver**
 	- run a `post` at 10-12 yards, taking a 45 degree angle towards the middle of the field
-### `R9` Whippie (Whip-Wheel)
+
+### `R8` Whippie (Whip-Wheel)
 
 ![[Pasted image 20240724095104.png]]
 #### Wheelie (Post-Wheel) Route Combo Breakdown
@@ -250,6 +261,18 @@ Remember, effective route running is a combination of speed, precision, and awar
 	- run a `whip` route at 5 yards
 	- route must get "over" the starting lateral position of the inside WR
 	- this route combination will look like a `crack` block above
+
+### `R9` Fork (Post-Follow)
+
+![[Pasted image 20240724094957.png]]
+#### Fork (Post-Follow) Route Combo Breakdown
+
+- **Inside Receiver**
+	- run a `corner` route at 8-10 yards, breaking towards the sideilne at 45 degrees
+- **Outside Receiver**
+	- immediately run at angle to follow in the trail of the Inside WR
+	- when the Inside WR breaks outside for the `corner`, break at the same time for the `post`
+
 ### `R10` Pivot (Spot-Wheel)
 
 ![[Pasted image 20240724095126.png]]

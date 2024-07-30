@@ -87,6 +87,7 @@ words
 #### Counter (Weak)
 ![[Pasted image 20240725115912.png]]
 - `counter` is the opposite with the `G` "kicking out" and the `H` "wrapping" through the hole to block the PS `LB`
+- this is why for us `counters` will always be named "HG Counter" or "ZG Counter"
 #### Videos
 - [[Football 101 Counter]]
 - [[How To Run The Counter Play In Football - Complete Guide]]
@@ -105,6 +106,7 @@ words
 - [[Inside Zone Spread Running Game]]
 - [[Inside Zone Blocking Rules]]
 - [[2-Minute Drill Basic Zone Blocking]]
+- [[Coaching the Split Zone RPO]]
 - [[Coaching 101 Inside vs Outside Zone]]
 - [[Inside Zone vs Wide Zone Differences]]
 - [[Combining Three Plays In The Split Zone Package]]
