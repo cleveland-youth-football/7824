@@ -1,3 +1,24 @@
+# Wednesday July 31st 530-7pm
+- [[The Park Run]] 15m
+- Stretch (show them some or see what the kids suggest)
+- The `Count` is `22`
+	- [[Lunge]] out, and back
+	- `22` [[Burpee]]
+	- `22` [[Push-up]]
+	- `22` [[Sit-up]]
+	- `22` [[Up-Down]]
+	- [[Mountain Climber]]
+		- `22` Normal
+		- `22` Cross Crunch
+		- `22` Spiderman
+		- `22` Spiderman Wall
+	- `22` [[Sprint]] out, jog back
+	- Athletic Position
+		- 3 times `22s` each time
+	- Grant Special
+		- Anything you want to have them do
+		- but they have to be working hard, not standing around
+- [[The Park Run]] 15m
 # Tuesday July 30th 530-7pm
 - [[The Baby Park Run]] 10m
 - Stretch (show them some or see what the kids suggest)
