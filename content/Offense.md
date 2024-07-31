@@ -98,7 +98,27 @@ words
 - [[Oklahoma Sooners GT Counter]]
 - [[Matt Jones - Offensive Line Pulling Techniques]]
 	
-	
+
+## Zone Blocking
+
+### Inside Zone
+- `U` uncovered linemen join the covered lineman _backside_ in combo block to LB
+- `C` does a combo block to Mike, first LB playside
+
+#### vs Over Front
+
+![[Pasted image 20240730165317.png]]
+#### vs Under Front
+![[Pasted image 20240730165331.png]]
+### Outside Zone
+
+- `U` uncovered linemen join the covered lineman _playside_ in combo block to LB
+- same as before, `C` does a combo block to Mike, first LB playside
+#### vs Over Front
+![[Pasted image 20240730165354.png]]
+#### vs Under Front
+![[Pasted image 20240730165406.png]]
+
 ### Inside Zone `Indy`
 ![[Pasted image 20240725120031.png]]
 - items
@@ -201,7 +221,7 @@ This play puts the outside defender in conflict between covering the `stick` and
 - `Y` must go _under_ the `S` linebacker and _over_ the `M`linebacker, getting vertical while passing between where they lined up, then flattening out on way to the far hash
 #### Videos
 - [[Running 95 Y-CROSS 3 X 1 in the Air Raid Offense]]
-- [[The Complete Guide To Y-Cross 10 Variations
+- [[The Complete Guide To Y-Cross 10 Variations]]
 
 #### Shallow Cross
 ![[Pasted image 20240725183729.png]]
