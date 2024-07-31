@@ -5,7 +5,7 @@
 - `The Box` area of the field from `DE` to `DE` extending to 5yds; this is helpful for the `QB` to count how many defenders  are clustered around the ball just opposite of the offensive line. This is useful to know if you should run plays into the middle or exploit the edges with outside runs, passes and screens
 - `The Sidewalk` the area of the field between the bottom of the numbers and the sideline. Note: there is a sidewalk on each edge of the field
 - `The Alley` the area of the field between the top of the numbers and the nearest hash. Note: there is an `alley` on each side of the `center` of the field.
-- `The Middle or Center of the Field`; this the area of the field in between the hashes.
+- The `Middle` or `Center` of the Field; this the area of the field in between the hashes.
 - `OL` offensive line; one of the 5 players that must line up on the `LOS`
 - `DL` defensive line; one of the 3-5 players (4 in our system) that line up on the `LOS`
 - `OT`, `RT`, `LT`, `ST`, `WT`: offensive tackle, right, left, strong or weak; the outside player of the `OL` on either side of the ball.
