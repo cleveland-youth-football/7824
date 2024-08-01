@@ -1,3 +1,5 @@
+[[example practice plan]]
+
 # Wednesday July 31st 530-7pm
 - [[The Park Run]] 15m
 - Stretch (show them some or see what the kids suggest)

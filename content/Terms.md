@@ -12,6 +12,5 @@
 - `OG`, `RG`, `LG`, `SG`, `WT`: offensive guard, right, left, strong or weak; the player inside of the tackle, next to the `C`, center.
 - `IZ`, `IZ+` and `IZ-`: inside-zone, inside-zone strong, inside-zone weak
 - `OZ`, `OZ+` and `OZ-`: outside-zone, outside-zone strong, outside-zone weak
-- `P+` and `P-`: power strong, power weak
-- `C+` and `C-`: counter strong, counter weak
+- `P+` and `P-`: power strong, power weak; usually without the kickout block on the `DE`
 - `HS`, `HS+` and `HS-`: half-slide pass-protection, half-slide strong, half-slide weak
