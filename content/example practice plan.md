@@ -15,8 +15,8 @@
 	- F/CBs (Cory, Sean)
 - Offense
 	- OL (Scott)
-	- QBs (Sean)
+	- QBs (Cory)
 	- RBs + H-shared (Brad)
-	- WRs + H-shared (Cory)
+	- WRs + H-shared (Sean)
 
 #### Tackling (Philip)
