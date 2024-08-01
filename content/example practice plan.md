@@ -1,13 +1,14 @@
 ![[Pasted image 20240731223133.png]]
 
-Halves
+#### Halves
 - Defense
 	- 6box (Scott, Brad)
 	- 2ndry (Cory, Sean)
 - Offense
 	- OL+H-shared (Scott, Brad)
 	- WR/RB/QB + H-shared (Cory , Sean)
-Indivs
+
+#### Indivs
 - Defense
 	- DL (Scott)
 	- LBs (Brad)
@@ -17,4 +18,5 @@ Indivs
 	- QBs (Sean)
 	- RBs + H-shared (Brad)
 	- WRs + H-shared (Cory)
-Tackling (Philip)
+
+#### Tackling (Philip)
