@@ -1,4 +1,4 @@
-The Trap play is a `gap-scheme` play where you "trap" the `DT` (Defensive Tackle) usually in the `B gap`. For us, it will always be run away from the `NT` (Nose Tackle) usually in the `A gap`.
+The Trap play is a `gap-scheme` play where you "trap" the `DT` (Defensive Tackle) usually in the `B gap`. For us, it will always be run away from the `NT` (Nose Tackle) usually in the `A gap`. Meaning there is no `strong` vs `weak` for this play like there is for others.
 
 ## Assignments
 
@@ -12,4 +12,11 @@ The Trap play is a `gap-scheme` play where you "trap" the `DT` (Defensive Tackle
 - `X`, `Y` and `Z` `stalk block` on the `PS` (playside) and `crack screen` by default on the `BS` (backside)
 - `Q` will handoff and then carry out a playfake rollout (if appropriate)
 
-![[7824-trap-8.2.24.pdf]]
+## Black (20p 2x1)
+![[Pasted image 20240802173228.png]]
+
+## Green (10p 2x2)
+![[Pasted image 20240802173436.png]]
+\
+## Yellow (10p 3x1)
+![[Pasted image 20240802173453.png]]
