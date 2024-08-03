@@ -1,5 +1,47 @@
 [[example practice plan]]
 
+# Friday August 2nd 530-7pm
+- [[The Park Run]] 15m
+- Stretch (show them some or see what the kids suggest)
+- The `Count` is `24`
+	- [[Lunge]] out, and back
+	- `24` [[Burpee]]
+	- `24` [[Push-up]]
+	- `24` [[Sit-up]]
+	- `24` [[Up-Down]]
+	- [[Mountain Climber]]
+		- `24` Normal
+		- `24` Cross Crunch
+		- `24` Spiderman
+		- `24` Spiderman Wall
+	- `24` [[Sprint]] out, jog back
+	- Athletic Position
+		- 3 times `24s` each time
+	- Grant Special
+		- Anything you want to have them do
+		- but they have to be working hard, not standing around
+- [[The Park Run]] 15m
+# Thursday August 1st 530-7pm
+- [[The Park Run]] 15m
+- Stretch (show them some or see what the kids suggest)
+- The `Count` is `23`
+	- [[Lunge]] out, and back
+	- `23` [[Burpee]]
+	- `23` [[Push-up]]
+	- `23` [[Sit-up]]
+	- `23` [[Up-Down]]
+	- [[Mountain Climber]]
+		- `23` Normal
+		- `23` Cross Crunch
+		- `23` Spiderman
+		- `23` Spiderman Wall
+	- `23` [[Sprint]] out, jog back
+	- Athletic Position
+		- 3 times `23s` each time
+	- Grant Special
+		- Anything you want to have them do
+		- but they have to be working hard, not standing around
+- [[The Park Run]] 15m
 # Wednesday July 31st 530-7pm
 - [[The Park Run]] 15m
 - Stretch (show them some or see what the kids suggest)

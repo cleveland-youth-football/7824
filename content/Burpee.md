@@ -1,4 +1,6 @@
-demonstration video:[[The Burpee]]
+#### Video
+- [[The Burpee]]
+#### Instructions
 - from standing position
 - drop to a plank; straight back, feet together, hands supporting you about shoulder-width apart
 - do a pushup, without arching nor sagging the back; belly nor knees touching the ground
