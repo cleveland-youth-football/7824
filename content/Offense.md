@@ -28,6 +28,14 @@ words
 
 ### [[Power-Counter]]
 
+### [[Inside-Zone]]
+
+### [[Outside-Zone]]
+
+### [[Option]]
+
+### [[Jet]]
+
 words
 ### Trap `Bama`
 ![[Pasted image 20240725115750.png]]
