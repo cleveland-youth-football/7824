@@ -1,5 +1,6 @@
+# [[Positions#Offense]]
 
-[[2WR Routes]]
+### [[2WR Routes]]
 
 We are a spread offense using the `pistol` and `shotgun` formations.
 - `Q` (quarterback) depth is at 5yds for `pistol` _and_ `shotgun`
@@ -14,9 +15,6 @@ We are a spread offense using the `pistol` and `shotgun` formations.
 The movement of primarily one player, `H`, is how we move from one formation to the next. Additionally the `X` maybe move further out when `H` joins the weak side of the formation on `Green` and `Yellow` formations.
 
 We utilize `motion` (moving a player laterally along the line LOS prior to the snap) to get the player into position to make a block or get open for a pass. We want to emphasize moving players from one side of the field, because this stresses and confuses the defense.
-
-
-# [[Offensive-Positions]]
 
 # [[Formations]]
 

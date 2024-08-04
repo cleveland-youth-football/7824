@@ -7,7 +7,7 @@ title: Welcome to CYF for 7/8 in 2024
 
 # [[Football]]
 
-## [[Our Team]]
+# [[Our Team]]
 
 ## TVYFL
 - [TVYFL Calendar](https://www.tvyfl.org/calendar)
