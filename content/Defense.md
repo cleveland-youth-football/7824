@@ -1,4 +1,4 @@
-# [[Positions#Defense]]
+# [[Positions#Defense|Positions]]
 
 # 4-2-5 Defense (could be considered a 4-4)
 

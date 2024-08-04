@@ -1,4 +1,4 @@
-# [[Positions#Offense]]
+# [[Positions#Offense|Positions]]
 
 ### [[2WR Routes]]
 
