@@ -1,6 +1,17 @@
 The Trap play is a `gap-scheme` play where you "trap" the `DT` (Defensive Tackle) usually in the `B gap`. For us, it will always be run away from the `NT` (Nose Tackle) usually in the `A gap`. Meaning there is no `strong` vs `weak` for this play like there is for others.
 
 ## Assignments
+- `trap` blocking is a gap scheme where the `DEs` are ignored and instead the `OT` (offensive tackles) go straight for linebackers
+- the `C` (center) snaps the ball and then seals the `NT` in the "shade" or a `1-tech` (A gap)
+- the `G` (guard) that shares the same A gap with the `C`, pulls around the `C` and hits the `DT`; the rushing player will follow this block
+- the other `G` leaves the `DT` (mentioned above) for an inside `LB`
+- This play is quick hitting and leaves the `DEs` unblocked because they won't have an opportunity to get in on the play
+- meanwhile the play side `G` and the two `Ts` skip to blocking the `LBs` directly
+#### videos
+- [[Football 101 Trap]]
+- [[Kick Out Pulls on Trap and Counter- LINEPROTIPS 006]]
+- [[Offensive Line Gap Scheme Drills]]
+- [[Matt Jones - Offensive Line Pulling Techniques]]
 
 ### Offensive Line
 - `Center` will down block back on the `NT` in their `A gap`.

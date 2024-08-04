@@ -5,7 +5,12 @@
 - items
 
 ### Skill Positions
-- items
+- the shallow cross player must `drag` across the field on the `LOS` or the heels of the DL
+- the opposite #2 WR has a `MOR` and then runs a `dig/in` at 10yds
+##### Videos
+- [[Xs Os Shallow Cross]]
+- [[BEST MAN TO MAN Beater - The Air Raid Shallow Cross Concept]]
+- [[Offense Passing concepts MESH and SHALLOW CROSS]]
 
 # Shallow Cross
 

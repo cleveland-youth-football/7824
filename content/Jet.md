@@ -6,7 +6,9 @@
 ### Skill Positions
 - items
 
-# Outside Zone
+#### Videos
+- [[Football 101 Jet Sweep]]
+- [[Dynamic Play Review - Jet Motion WR Screen Huge Block]]
 
 ## Black (20p 2x1)
 

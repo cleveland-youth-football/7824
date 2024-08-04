@@ -10,6 +10,9 @@
 ## [[Offense]]
 - spread `2x1`, `2x2` and `3x1`
 
+## [[Blocking]]
+- all of the types of blocks described
+
 ## [[Tackling]]
 - rugby style 
 

@@ -5,7 +5,11 @@
 - items
 
 ### Skill Positions
-- items
+- `Y` is getting across the field to the far hash at 12yds
+- `Y` must go _under_ the `S` linebacker and _over_ the `M`linebacker, getting vertical while passing between where they lined up, then flattening out on way to the far hash
+#### Videos
+- [[Running 95 Y-CROSS 3 X 1 in the Air Raid Offense]]
+- [[The Complete Guide To Y-Cross 10 Variations]]
 
 # Shallow Cross
 

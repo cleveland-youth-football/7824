@@ -6,7 +6,11 @@
 ### Skill Positions
 - items
 
-# Outside Zone
+#### Videos
+- [[Quarterback Training - Option Pitch Drill]]
+- [[3 Tips for a Successful Speed Option Glazier Clinics - YouTube]]
+- [[Tennessee running shovel and speed option]]
+- [[Use These 2 Speed Option Variations Dordt Football]]
 
 ## Black (20p 2x1)
 
