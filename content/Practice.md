@@ -1,5 +1,10 @@
 [[example practice plan]]
 
+
+| First | Last  |
+| ----- | ----- |
+| Scott | Idler |
+
 # Friday August 2nd 530-7pm
 - [[The Park Run]] 15m
 - Stretch (show them some or see what the kids suggest)
