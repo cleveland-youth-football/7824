@@ -11,4 +11,4 @@ Distractions can be:
 3. Then possible missing of participation in a game or games
 4. Asked to leave the team
 
-It is our goal to coach and educate these young kids on competing in sports, learning to play football and learn some life skills along the way if possible. Distractions from being able to do this will not be allowed to linger.
+It is our goal to coach and educate these kids on competing in sports, learning to play football and learn some life skills along the way if possible. Distractions from being able to do this will not be allowed to linger.
