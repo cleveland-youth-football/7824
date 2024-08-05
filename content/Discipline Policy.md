@@ -6,9 +6,13 @@ Distractions can be:
 - refusing to follow coaching
 - fighting, etc
 
-1. Initially the coaches will attempt to deal with the issue in the normal ways.
-2. Next a meeting with parents or guardian
-3. Then possible missing of participation in a game or games
-4. Asked to leave the team
+1. Initially the coaches will attempt to deal with the issue in the normal ways
+	- verbal call out
+	- redirecting focus using conditioning exercises
+	- taking a timeout
+	- having a chat with a coach
+1. Next a meeting with parents or guardian
+2. Then possible missing of participation in a game or games
+3. Asked to leave the team
 
 It is our goal to coach and educate these kids on competing in sports, learning to play football and learn some life skills along the way if possible. Distractions from being able to do this will not be allowed to linger.
