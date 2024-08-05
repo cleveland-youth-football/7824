@@ -1,17 +1,22 @@
-[[The Park Run]]
+#### Video
+- [[Football Conditioning Workout-20 Football Exercises to make you a BEAST]]
+	- our #1 source of conditioning ideas
+	- watch this to understand our exercises
 
-[[The Baby Park Run]]
+# Runs
 
-[[Burpee]]
+- ### [[The Park Run]]
 
-[[Up-Down]]
+- ### [[The Baby Park Run]]
 
-[[Push-up]]
+# Exercises
 
-[[Sit-up]]
+- ### [[Burpee]]
 
-[[Mountain Climber]]
+- ### [[Up-Down]]
 
-[[Football Conditioning Workout-20 Football Exercises to make you a BEAST]]
-- our #1 source of conditioning ideas
-- watch this to understand our exercises
+- ### [[Push-up]]
+
+- ### [[Sit-up]]
+
+- ### [[Mountain Climber]]
