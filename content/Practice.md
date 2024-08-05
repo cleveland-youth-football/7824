@@ -3,6 +3,8 @@
 
 ## Monday August 5th 530-730pm
 
+### Count: 25
+
 | Time  | Length | Activity     |
 | ----- | ------ | ------------ |
 | 530pm | 15m    | Park Run     |
