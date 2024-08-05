@@ -1,6 +1,5 @@
 A football team has lot's of people to make it possible!  Here is some information about the people involved in the campaign.
 
-
 # Cleveland Values
 - Integrity
 - Discipline
@@ -26,6 +25,8 @@ Note about the difference of Football from other sports. There is a reason that 
 	- etc
 
 # What is Your Role?
+
+### [[Discipline Policy]]
 
 ## Players
 
