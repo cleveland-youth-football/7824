@@ -1,4 +1,20 @@
-# Friday August 2nd 530-7pm
+
+# Today
+## Monday August 5th 530-730pm
+
+- ### Count: 25
+
+| Time  | Length | Activity         |
+| ----- | ------ | ---------------- |
+| 530pm | 15m    | [[The Park Run]] |
+| 545pm | 10m    | Stretching       |
+| 555pm | 35m    | [[Conditioning]] |
+| 630pm | 25m    | [[Defense]]      |
+| 655pm | 25m    | [[2WR Routes]]   |
+| 720pm | 10m    | Closing          |
+
+# Previous
+## Friday August 2nd 530-7pm
 - [[The Park Run]] 15m
 - Stretch (show them some or see what the kids suggest)
 - The `Count` is `24`
@@ -19,7 +35,7 @@
 		- Anything you want to have them do
 		- but they have to be working hard, not standing around
 - [[The Park Run]] 15m
-# Thursday August 1st 530-7pm
+## Thursday August 1st 530-7pm
 - [[The Park Run]] 15m
 - Stretch (show them some or see what the kids suggest)
 - The `Count` is `23`
@@ -40,7 +56,7 @@
 		- Anything you want to have them do
 		- but they have to be working hard, not standing around
 - [[The Park Run]] 15m
-# Wednesday July 31st 530-7pm
+## Wednesday July 31st 530-7pm
 - [[The Park Run]] 15m
 - Stretch (show them some or see what the kids suggest)
 - The `Count` is `22`
@@ -61,7 +77,7 @@
 		- Anything you want to have them do
 		- but they have to be working hard, not standing around
 - [[The Park Run]] 15m
-# Tuesday July 30th 530-7pm
+## Tuesday July 30th 530-7pm
 - [[The Baby Park Run]] 10m
 - Stretch (show them some or see what the kids suggest)
 - The `Count` is `21`
@@ -82,7 +98,7 @@
 		- Anything you want to have them do
 		- but they have to be working hard, not standing around
 - [[The Baby Park Run]] 10m
-# Monday July 29th 530-7pm
+## Monday July 29th 530-7pm
 - [[The Baby Park Run]] 15m
 - Stretch (show them some or see what the kids suggest)
 - The `Count` is `20`
