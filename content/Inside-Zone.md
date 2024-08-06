@@ -24,23 +24,23 @@
 ## Black (20p 2x1)
 
 ### Strong
-![[Pasted image 20240802181102.png]]
+![[Pasted image 20240806133832.png]]
 
 ### Weak
-![[Pasted image 20240802181113.png]]
+![[Pasted image 20240806133844.png]]
 
 ## Green (20p 2x1)
 
 ### Strong
-![[Pasted image 20240802181200.png]]
+![[Pasted image 20240806133852.png]]
 
 ### Weak
-![[Pasted image 20240802181212.png]]
+![[Pasted image 20240806133901.png]]
 
 ## Yellow (20p 2x1)
 
 ### Strong
-![[Pasted image 20240802181226.png]]
+![[Pasted image 20240806133911.png]]
 
 ### Weak
-![[Pasted image 20240802181238.png]]
+![[Pasted image 20240806133920.png]]
