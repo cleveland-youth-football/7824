@@ -3,6 +3,9 @@
 ## Assignments
 
 ### Offensive Line
+- `C` ids the `Mike` `LB`, aka the first `LB` on the `PS`
+	- `C` then calls double team with either `PS G` with "Ace" or `BS G` via "Uno"
+	- `PS` `G` & `T` with "Deuce"; `BS` `G` & `T` with "Duo"
 - first step `PS` , aims the screws of the player's helmet at the defender's near V and straddling the the inside leg (`BS`) of the defender
 - second step `BS` goes vertical into the defender
 - player should "duck walk" with the instep of the foot providing the base
