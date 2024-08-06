@@ -11,8 +11,8 @@
 | 620pm | 10m    | Review           |                                                    |                                                    |
 | 630pm | 10m    |                  | [Hit Position](https://youtu.be/cecLjyTUlTQ?t=472) | [Tracking](https://youtu.be/cecLjyTUlTQ?t=335)     |
 | 640pm | 10m    |                  | [Tracking](https://youtu.be/cecLjyTUlTQ?t=3)       | [Hit Position](https://youtu.be/cecLjyTUlTQ?t=472) |
-| 650pm | 20m    |                  | Inside-Zone                                        | Inside-Zone                                        |
-| 710pm | 20m    | Inside-Zone      |                                                    |                                                    |
+| 650pm | 20m    |                  | [[Inside-Zone]]                                    | [[Inside-Zone]]                                    |
+| 710pm | 20m    | [[Inside-Zone]]  |                                                    |                                                    |
 # Previous
 
 ## Monday August 5th 530-730pm
