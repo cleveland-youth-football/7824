@@ -3,6 +3,21 @@
 ## Monday August 5th 530-730pm
 
 - ### Count: 25
+| Time  | Length | Team             | OLine                                              | Skill                                              |
+| ----- | ------ | ---------------- | -------------------------------------------------- | -------------------------------------------------- |
+| 530pm | 13m    | [[The Park Run]] |                                                    |                                                    |
+| 543pm | 5m     | Stretching       |                                                    |                                                    |
+| 548pm | 32m    | [[Conditioning]] |                                                    |                                                    |
+| 620pm | 10m    | Review           |                                                    |                                                    |
+| 630pm | 10m    |                  | [Hit Position](https://youtu.be/cecLjyTUlTQ?t=472) | [Tracking](https://youtu.be/cecLjyTUlTQ?t=335)     |
+| 640pm | 10m    |                  | [Tracking](https://youtu.be/cecLjyTUlTQ?t=3)       | [Hit Position](https://youtu.be/cecLjyTUlTQ?t=472) |
+| 650pm | 20m    |                  | Inside-Zone                                        | Inside-Zone                                        |
+| 710pm | 20m    | Inside-Zone      |                                                    |                                                    |
+# Previous
+
+## Monday August 5th 530-730pm
+
+- ### Count: 25
 
 | Time  | Length | Activity         |
 | ----- | ------ | ---------------- |
@@ -13,7 +28,6 @@
 | 655pm | 25m    | [[2WR Routes]]   |
 | 720pm | 10m    | Closing          |
 
-# Previous
 ## Friday August 2nd 530-7pm
 - [[The Park Run]] 15m
 - Stretch (show them some or see what the kids suggest)

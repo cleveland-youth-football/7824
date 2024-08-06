@@ -1,8 +1,8 @@
 ## Combo Calls
 - "Ace" `C` and `PS G`
 - "Deuce" `PS G` and `PS T`
-- "Charlie" `C` and `BS G`
-- "George" `BS G` and `BS T`
+- "Uno" `C` and `BS G`
+- "Duo" `BS G` and `BS T`
 
 ## Inside Zone
 - `U` uncovered linemen join the covered lineman _backside_ in combo block to LB

@@ -3,8 +3,14 @@
 ## Assignments
 
 ### Offensive Line
-- first step `PS` (playside), aims the screws of the player's helmet at the defender's `PS` number
-- `BS` (backside) hand the defender's `BS` (backside) number below the chest plate
+- first step `PS` , aims the screws of the player's helmet at the defender's near V and straddling the the inside leg (`BS`) of the defender
+- second step `BS` goes vertical into the defender
+- player should "duck walk" with the instep of the foot providing the base
+- `BS` "strike hand" armpit to hipbone as the second step lands
+- `PS` hand is on the chest plate
+- `covered` takes the player in their gap to the `PS`
+- `uncovered` helps with double teams to the `LB`
+
 
 ### Skill Positions
 - `T's` aiming point is the inside hip of the `PS` `G`; slow roll the approach, allow the blocks to be set. Gap is `PS` `A` or cut back to `BS` `A` or `B`
