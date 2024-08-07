@@ -1,8 +1,26 @@
 
 # Today
-## Monday August 5th 530-730pm
 
-- ### Count: 25
+## Wednesday August 7th 530-730pm
+
+- ### Count: 27
+
+| Time  | Length | Team             | Group1                                             | Group2                                         | Group3                                                |
+| ----- | ------ | ---------------- | -------------------------------------------------- | ---------------------------------------------- | ----------------------------------------------------- |
+| 530pm | 13m    | [[The Park Run]] |                                                    |                                                |                                                       |
+| 543pm | 5m     | Stretching       |                                                    |                                                |                                                       |
+| 548pm | 32m    | [[Conditioning]] |                                                    |                                                |                                                       |
+| 620pm | 10m    |                  | [Bag Tackling](https://youtu.be/cecLjyTUlTQ?t=644) | [Tracking](https://youtu.be/cecLjyTUlTQ?t=335) | [Player Tackling](https://youtu.be/cecLjyTUlTQ?t=728) |
+| 630pm | 10m    |                  | Player Tackling                                    | Bag Tackling                                   | Tracking                                              |
+| 640pm | 10m    |                  | Tracking                                           | Player Tackling                                | Bag Tackling                                          |
+| 650pm | 20m    |                  | [[Inside-Zone]]                                    | [[Inside-Zone]]                                |                                                       |
+| 710pm | 20m    | [[Inside-Zone]]  |                                                    |                                                |                                                       |
+# Previous
+
+## Tuesday August 6th 530-730pm
+
+- ### Count: 26
+
 | Time  | Length | Team             | OLine                                              | Skill                                              |
 | ----- | ------ | ---------------- | -------------------------------------------------- | -------------------------------------------------- |
 | 530pm | 13m    | [[The Park Run]] |                                                    |                                                    |
@@ -13,7 +31,7 @@
 | 640pm | 10m    |                  | [Tracking](https://youtu.be/cecLjyTUlTQ?t=3)       | [Hit Position](https://youtu.be/cecLjyTUlTQ?t=472) |
 | 650pm | 20m    |                  | [[Inside-Zone]]                                    | [[Inside-Zone]]                                    |
 | 710pm | 20m    | [[Inside-Zone]]  |                                                    |                                                    |
-# Previous
+
 
 ## Monday August 5th 530-730pm
 
