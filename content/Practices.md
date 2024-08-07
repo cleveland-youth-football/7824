@@ -13,7 +13,7 @@
 | 620pm | 10m    |                  | [Bag Tackling](https://youtu.be/cecLjyTUlTQ?t=644) | [Tracking](https://youtu.be/cecLjyTUlTQ?t=335) | [Player Tackling](https://youtu.be/cecLjyTUlTQ?t=728) |
 | 630pm | 10m    |                  | Player Tackling                                    | Bag Tackling                                   | Tracking                                              |
 | 640pm | 10m    |                  | Tracking                                           | Player Tackling                                | Bag Tackling                                          |
-| 650pm | 20m    |                  | [[Inside-Zone]]                                    | [[Inside-Zone]]                                |                                                       |
+| 650pm | 20m    |                  | [[Inside-Zone\|OL-Indy]]                           | [[Inside-Zone\|Skill-Indy]]                    |                                                       |
 | 710pm | 20m    | [[Inside-Zone]]  |                                                    |                                                |                                                       |
 # Previous
 
