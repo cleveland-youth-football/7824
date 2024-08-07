@@ -39,7 +39,8 @@ This whole endeavor is about the youth football players.  Everything we do will 
 	- no cussing at practice, game or when attending any Cleveland Youth Football function
 	- no arguing or fighting with teammates
 	- no behavior reflecting poorly on the Cleveland Football team
-- Players will show up 1hr 15m prior to the game on game day. This allows us to transition to game day mode.
+- players will show up 1hr 15m prior to the game on game day. This allows us to transition to game day mode.
+- players _must_ complete team conditioning to be cleared to play
 
 ## Parents
 
