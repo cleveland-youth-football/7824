@@ -12,7 +12,8 @@
 - `BS` "strike hand" armpit to hipbone as the second step lands
 - `PS` hand is on the chest plate
 - `covered` takes the player in their gap to the `PS`
-- `uncovered` helps with double teams to the `LB`
+- `uncovered` helps `BS` with double teams to the `LB`
+- `head up` (directly over the player) get treated as a double team from the `head up` offensive lineman & the `BS` offensiveman
 
 
 ### Skill Positions
