@@ -23,20 +23,10 @@ jobs:
         with:
           fetch-depth: 0
 
-#      - name: Setup Node
-#        uses: actions/setup-node@v4
-#        with:
-#          node-version: '20'
-#
-#      - name: Verify Node.js Version
-#        run: node -v
-
       - name: Setup Node
-        run: |
-          curl -L https://raw.githubusercontent.com/tj/n/master/bin/n -o n
-          bash n 20
-          node -v
-          npm -v
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
 
       - name: Cache dependencies
         uses: actions/cache@v4
