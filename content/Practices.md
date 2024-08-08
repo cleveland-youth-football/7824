@@ -12,8 +12,8 @@
 | 542pm | 5m     | Stretching           |                                                              |                                                                  |         |
 | 547pm | 33m    | [[Conditioning]]     |                                                              |                                                                  |         |
 | 620pm | 30m    | divide into 3 groups | [Targeting (Drive/Roll)](https://youtu.be/cecLjyTUlTQ?t=833) | [Live Low Shoulder Tackling](https://youtu.be/cecLjyTUlTQ?t=999) | Sprints |
-| 650pm | 20m    |                      |                                                              |                                                                  |         |
-| 710pm | 20m    |                      |                                                              |                                                                  |         |
+| 650pm | 20m    |                      | [[Outside-Zone\|Outside-Zone Oline]]                         | [[Outside-Zone\|Outside-Zone Skill]]                             |         |
+| 710pm | 20m    | Outside-Zone         |                                                              |                                                                  |         |
 
 # Previous
 ## Wednesday August 7th 530-730pm
