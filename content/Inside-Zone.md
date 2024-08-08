@@ -13,7 +13,7 @@
 - `PS` hand is on the chest plate
 - `covered` takes the player in their gap to the `PS`
 - `uncovered` helps `BS` with double teams to the `LB`
-- `head up` (directly over the player) get treated as a double team from the `head up` offensive lineman & the `BS` offensiveman
+- `head up` (directly over the player) get treated as a double team from the `head up` offensive lineman & the `BS` offensive lineman
 
 
 ### Skill Positions
@@ -28,23 +28,23 @@
 ## Black (20p 2x1)
 
 ### Strong
-![[Pasted image 20240806133832.png]]
+![[Pasted image 20240808130127.png]]
 
 ### Weak
-![[Pasted image 20240806133844.png]]
+![[Pasted image 20240808130138.png]]
 
-## Green (20p 2x1)
+## Green (20p 2x2)
 
 ### Strong
-![[Pasted image 20240806133852.png]]
+![[Pasted image 20240808130151.png]]
 
 ### Weak
-![[Pasted image 20240806133901.png]]
+![[Pasted image 20240808130202.png]]
 
-## Yellow (20p 2x1)
+## Yellow (20p 3x1)
 
 ### Strong
-![[Pasted image 20240806133911.png]]
+![[Pasted image 20240808130214.png]]
 
 ### Weak
-![[Pasted image 20240806133920.png]]
+![[Pasted image 20240808130224.png]]

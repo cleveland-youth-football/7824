@@ -1,9 +1,25 @@
 
 # Today
 
+## Thursday August 8th 530-730pm
+
+- #### Count: 28
+- #### Focus: Outside Zone
+
+| Time  | Length | Team                 | Group1                                                       | Group2                                                           | Group3  |
+| ----- | ------ | -------------------- | ------------------------------------------------------------ | ---------------------------------------------------------------- | ------- |
+| 530pm | 12m    | [[The Park Run]]     |                                                              |                                                                  |         |
+| 542pm | 5m     | Stretching           |                                                              |                                                                  |         |
+| 547pm | 33m    | [[Conditioning]]     |                                                              |                                                                  |         |
+| 620pm | 30m    | divide into 3 groups | [Targeting (Drive/Roll)](https://youtu.be/cecLjyTUlTQ?t=833) | [Live Low Shoulder Tackling](https://youtu.be/cecLjyTUlTQ?t=999) | Sprints |
+| 650pm | 20m    |                      |                                                              |                                                                  |         |
+| 710pm | 20m    |                      |                                                              |                                                                  |         |
+
+# Previous
 ## Wednesday August 7th 530-730pm
 
-- ### Count: 27
+- #### Count: 27
+- #### Focus: Inside Zone
 
 | Time  | Length | Team             | Group1                                             | Group2                                         | Group3                                                |
 | ----- | ------ | ---------------- | -------------------------------------------------- | ---------------------------------------------- | ----------------------------------------------------- |
@@ -15,7 +31,6 @@
 | 640pm | 10m    |                  | Tracking                                           | Player Tackling                                | Bag Tackling                                          |
 | 650pm | 20m    |                  | [[Inside-Zone\|OL-Indy]]                           | [[Inside-Zone\|Skill-Indy]]                    |                                                       |
 | 710pm | 20m    | [[Inside-Zone]]  |                                                    |                                                |                                                       |
-# Previous
 
 ## Tuesday August 6th 530-730pm
 
