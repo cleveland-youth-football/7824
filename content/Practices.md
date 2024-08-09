@@ -1,6 +1,21 @@
 
 # Today
 
+## Friday August 9th 530-730pm
+
+- #### Count: 29
+- #### Focus: Outside Zone
+
+| Time  | Length | Team                 | Group1                                               | Group2                                                             | Group3                                             |
+| ----- | ------ | -------------------- | ---------------------------------------------------- | ------------------------------------------------------------------ | -------------------------------------------------- |
+| 530pm | 12m    | [[The Park Run]]     |                                                      |                                                                    |                                                    |
+| 542pm | 5m     | Stretching           |                                                      |                                                                    |                                                    |
+| 547pm | 33m    | [[Conditioning]]     |                                                      |                                                                    |                                                    |
+| 620pm | 30m    | divide into 3 groups | [High Tackling](https://youtu.be/cecLjyTUlTQ?t=1305) | [Full Speed Tackling Dummies](https://youtu.be/cecLjyTUlTQ?t=1439) | [The Shoulder Punch](https://youtu.be/yd-6XRyiorg) |
+| 650pm | 10m    |                      | [[Outside-Zone\|Outside-Zone Oline]]                 | [[Outside-Zone\|Outside-Zone Skill]]                               |                                                    |
+| 7pm   | 30m    | Outside-Zone         |                                                      |                                                                    |                                                    |
+
+# Previous
 ## Thursday August 8th 530-730pm
 
 - #### Count: 28
@@ -15,7 +30,6 @@
 | 650pm | 20m    |                      | [[Outside-Zone\|Outside-Zone Oline]]                         | [[Outside-Zone\|Outside-Zone Skill]]                             |         |
 | 710pm | 20m    | Outside-Zone         |                                                              |                                                                  |         |
 
-# Previous
 ## Wednesday August 7th 530-730pm
 
 - #### Count: 27
