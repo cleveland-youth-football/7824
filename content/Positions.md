@@ -113,7 +113,7 @@ These players are primarily covering potential receivers. However, they also hav
 - head turned in towards OL
 - move only once they do
 #### alignment
-- X and Y receivers are _always_ on the LOS; 6-10ft from the OT; in position to perform a crack back block on the DE
+- X and Y receivers are _always_ on the LOS; 6-10ft from the OT; in position to perform a crack block on the DE
 - Z is _always_ off of the LOS
 - H is _always_ off of the LOS when in WR formations
 #### assignment
