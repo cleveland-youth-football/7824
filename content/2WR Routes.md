@@ -1,3 +1,4 @@
+
 This page focuses on key aspects of 2WR (two wide receiver) combinations in three main areas: blocking routes, screen routes, and passing routes.
 
 1. **Blocking Routes:** Effective blocking from wide receivers can open up running lanes and protect the ball carrier. We'll cover different blocking techniques and assignments to help you understand your role in supporting the running game.
@@ -11,7 +12,8 @@ This guide provides the necessary details to understand and execute these 2WR co
 
 # Blocking Routes
 
-
+#### Videos
+- [[BLOCKING 101 - Push Crack - Wide Receiver Academy]]
 ### General Coaching for Blocking from the WR Position
 
 - **Get into Position:**
