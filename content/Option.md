@@ -1,10 +1,13 @@
 ## Assignments
 
 ### Offensive Line
-- items
+- `power` blocking on `Black` 2x1, without the kickout block; instead we "read" the unblocked `DE`
+- `outside-zone` blocking on `Green` (2x2) and `Yellow` (3x1)
+- 
 
 ### Skill Positions
-- items
+- `stalk blocking` on `PS`
+- `bubble screens` on `BS` where possible
 
 #### Videos
 - [[Quarterback Training - Option Pitch Drill]]
