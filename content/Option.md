@@ -1,13 +1,15 @@
 ## Assignments
 
 ### Offensive Line
-- `power` blocking on `Black` 2x1, without the kickout block; instead we "read" the unblocked `DE`
-- `outside-zone` blocking on `Green` (2x2) and `Yellow` (3x1)
-- 
+- [[Power-Counter|Power]] blocking on `Black` 2x1, without the kickout block; instead we "read" the unblocked `DE`
+- [[Outside-Zone]] blocking on `Green` (2x2) and `Yellow` (3x1)
 
 ### Skill Positions
 - `stalk blocking` on `PS`
 - `bubble screens` on `BS` where possible
+- on `Black` the `Q` attacks the `unblocked DE`; if he moves towards the `Q`, "shovel pitch" forward to the trailing `H`; otherwise "lateral pitch" to the `T`
+- on `Green` or `Yellow` `Q` should attack the force player on the edge, if challenged, "lateral pitch" to the `T`
+- `T` should always remain in pitch-relation to the `Q`; 2yds behind vertically (so pitches are laterals) and 5-8yds wider than the `Q`on the `PS` so that when a  pitch does happen there is  distance between the players
 
 #### Videos
 - [[Quarterback Training - Option Pitch Drill]]
