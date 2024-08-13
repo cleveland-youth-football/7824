@@ -76,6 +76,9 @@ These players are primarily covering potential receivers. However, they also hav
 - foot work
 - blocking techniques
 
+#### Center Snap
+![[Pasted image 20240813164803.png]]
+
 ### RB
 #### stance
 - athletic stance
