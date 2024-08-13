@@ -1,10 +1,14 @@
 ## Assignments
 
 ### Offensive Line
-- items
+- [[Outside-Zone]] blocking
 
 ### Skill Positions
-- items
+- `stalk blocking` on `PS`
+- `bubble screens` on `BS` where possible
+- `Q` will put the `BS` player in motion; usually `H` or `Z`, but once it is `T`
+- `Q` will snap the ball with enough time to catch the snap and "touch pass" the ball into the runner's track
+- the runner (`H`, `Z` or `T`) will carry the ball around the end reading blocks and running for daylight
 
 #### Videos
 - [[Football 101 Jet Sweep]]
