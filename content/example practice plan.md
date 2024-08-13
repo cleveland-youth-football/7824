@@ -20,3 +20,7 @@
 	- WRs + H-shared (Sean)
 
 #### Tackling (Philip)
+
+
+# Possible Depth Chart
+![[Pasted image 20240812170112.png]]

@@ -18,6 +18,9 @@
 	- 1 `R` rover "Ron"
 
 
+# Defensive Aligment
+![[Pasted image 20240812165628.png]]
+
 # 6-Man Box
 
 ## [[6-man-box-playcalls]]
