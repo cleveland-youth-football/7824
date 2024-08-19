@@ -1,9 +1,11 @@
-
+##### [[Playbooks#Offensive Playbooks]]
 
 # [[Positions#Offense|Positions]]
 This is a description of all of the positions on the field. There are descriptions of stance, moves, responsibilities, etc.
 
 # [[2WR Routes]]
+
+##### [[Playbooks#WR Route Combos]]
 
 We are a spread offense using the `pistol` and `shotgun` formations.
 - `Q` (quarterback) depth is at 5yds for `pistol` _and_ `shotgun`
