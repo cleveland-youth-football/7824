@@ -7,7 +7,7 @@ This family features three routes that can be run by different players and diffe
 This play puts the outside defender in conflict between covering the `stick` and the `flat`. He can't be right. The `Q` should throw wherever he isn't.## Assignments
 
 ### Offensive Line
-- items
+- [[Pass Protection]]
 
 ### Skill Positions
 - items
