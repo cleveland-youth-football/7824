@@ -77,8 +77,7 @@ These players are primarily covering potential receivers. However, they also hav
 - blocking techniques
 
 #### Center Snap
-![[Pasted image 20240813164803.png]]
-
+![Center Snap](https://youtu.be/WnCLgIh1xS8?t=702)
 ### RB
 #### stance
 - athletic stance

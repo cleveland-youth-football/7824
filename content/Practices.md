@@ -1,21 +1,80 @@
 
 # Today
 
+## Monday August 16th 530-730pm
+
+- #### Count: 35
+- #### Focus: Snack (Stick)
+
+| Time  | Length | Team                                                 | Group1                     | Group2                                | Group3 |
+| ----- | ------ | ---------------------------------------------------- | -------------------------- | ------------------------------------- | ------ |
+| 530pm | 12m    | [[The Park Run]]                                     |                            |                                       |        |
+| 542pm | 5m     | Stretching                                           |                            |                                       |        |
+| 547pm | 33m    | [[Conditioning]]                                     |                            |                                       |        |
+| 620pm | 10m    | Review:<br>- Trap<br>- Pwr/Cntr<br>- Option<br>- Jet |                            |                                       | <br>   |
+| 630pm | 20m    | Breakout                                             | OLine: Pursuit live tackle | Skill: Lead block pursuit live tackle |        |
+| 650pm | 10m    | Passing Intro                                        |                            |                                       |        |
+| 7pm   | 10m    | Breakout                                             | [[Snack\|Snack(Stick)]]    | [[Snack\|Snack(Stick)]]               |        |
+| 710pm | 20m    | [[Snack\|Snack(Stick)]]                              |                            |                                       |        |
+
+# Previous
+## Friday August 16th 530-730pm
+
+- #### Count: 34
+- #### Focus: Jet
+
+| Time  | Length | Team                                 | Group1                                               | Group2                                                         | Group3 |
+| ----- | ------ | ------------------------------------ | ---------------------------------------------------- | -------------------------------------------------------------- | ------ |
+| 530pm | 12m    | [[The Park Run]]                     |                                                      |                                                                |        |
+| 542pm | 5m     | Stretching                           |                                                      |                                                                |        |
+| 547pm | 33m    | [[Conditioning]]                     |                                                      |                                                                |        |
+| 620pm | 30m    | divide into OL & Skill; don't rotate | OL blocking IZ, OZ, Trap & P/C. coaches hold shields | [Mirroring Skill](https://www.youtube.com/watch?v=PFRn-GdAlNU) | <br>   |
+| 650pm | 10m    |                                      | [[Jet]]                                              | [[Jet]]                                                        |        |
+| 7pm   | 30m    | [[Power-Counter]]                    |                                                      |                                                                |        |
+
+## Thursday August 15th 530-730pm
+
+- #### Count: 33
+- #### Focus: Option
+
+| Time  | Length | Team                                 | Group1                                               | Group2                                                         | Group3 |
+| ----- | ------ | ------------------------------------ | ---------------------------------------------------- | -------------------------------------------------------------- | ------ |
+| 530pm | 12m    | [[The Park Run]]                     |                                                      |                                                                |        |
+| 542pm | 5m     | Stretching                           |                                                      |                                                                |        |
+| 547pm | 33m    | [[Conditioning]]                     |                                                      |                                                                |        |
+| 620pm | 30m    | divide into OL & Skill; don't rotate | OL blocking IZ, OZ, Trap & P/C. coaches hold shields | [Mirroring Skill](https://www.youtube.com/watch?v=PFRn-GdAlNU) | <br>   |
+| 650pm | 10m    |                                      | [[Option]]                                           | [[Option]]                                                     |        |
+| 7pm   | 30m    | [[Power-Counter]]                    |                                                      |                                                                |        |
+
+
+## Wednesday August 14th 530-730pm
+
+- #### Count: 32
+- #### Focus: Power/Counter
+
+| Time  | Length | Team                                 | Group1                                               | Group2                                                         | Group3 |
+| ----- | ------ | ------------------------------------ | ---------------------------------------------------- | -------------------------------------------------------------- | ------ |
+| 530pm | 12m    | [[The Park Run]]                     |                                                      |                                                                |        |
+| 542pm | 5m     | Stretching                           |                                                      |                                                                |        |
+| 547pm | 33m    | [[Conditioning]]                     |                                                      |                                                                |        |
+| 620pm | 30m    | divide into OL & Skill; don't rotate | OL blocking IZ, OZ, Trap & P/C. coaches hold shields | [Mirroring Skill](https://www.youtube.com/watch?v=PFRn-GdAlNU) | <br>   |
+| 650pm | 10m    |                                      | [[Power-Counter]]                                    | [[Power-Counter]]                                              |        |
+| 7pm   | 30m    | [[Power-Counter]]                    |                                                      |                                                                |        |
 ## Tuesday August 13th 530-730pm
 
 - #### Count: 31
 - #### Focus: Power/Counter
 
-| Time  | Length | Team                 | Group1                                               | Group2                                                             | Group3                                                                                                                            |
-| ----- | ------ | -------------------- | ---------------------------------------------------- | ------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
-| 530pm | 12m    | [[The Park Run]]     |                                                      |                                                                    |                                                                                                                                   |
-| 542pm | 5m     | Stretching           |                                                      |                                                                    |                                                                                                                                   |
-| 547pm | 33m    | [[Conditioning]]     |                                                      |                                                                    |                                                                                                                                   |
-| 620pm | 30m    | divide into 3 groups | [High Tackling](https://youtu.be/cecLjyTUlTQ?t=1305) | [Full Speed Tackling Dummies](https://youtu.be/cecLjyTUlTQ?t=1439) | - [Mirroring Skill](https://www.youtube.com/watch?v=PFRn-GdAlNU)<br>- [Mirroring OL](https://www.youtube.com/watch?v=1wOGx2sF7-Q) |
-| 650pm | 10m    |                      | [[Power-Counter]]                                    | [[Power-Counter]]                                                  |                                                                                                                                   |
-| 7pm   | 30m    | [[Power-Counter]]    |                                                      |                                                                    |                                                                                                                                   |
+| Time  | Length | Team                                 | Group1                                               | Group2                                                         | Group3 |
+| ----- | ------ | ------------------------------------ | ---------------------------------------------------- | -------------------------------------------------------------- | ------ |
+| 530pm | 12m    | [[The Park Run]]                     |                                                      |                                                                |        |
+| 542pm | 5m     | Stretching                           |                                                      |                                                                |        |
+| 547pm | 33m    | [[Conditioning]]                     |                                                      |                                                                |        |
+| 620pm | 30m    | divide into OL & Skill; don't rotate | OL blocking IZ, OZ, Trap & P/C. coaches hold shields | [Mirroring Skill](https://www.youtube.com/watch?v=PFRn-GdAlNU) | <br>   |
+| 650pm | 10m    |                                      | [[Power-Counter]]                                    | [[Power-Counter]]                                              |        |
+| 7pm   | 30m    | [[Power-Counter]]                    |                                                      |                                                                |        |
 
-# Previous
+
 ## Monday August 12th 530-730pm
 
 - #### Count: 30
