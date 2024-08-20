@@ -1,6 +1,23 @@
 
 # Today
 
+## Tuesday August 16th 530-730pm
+
+- #### Count: 36
+- #### Focus: Snack (Snag)
+
+| Time  | Length | Team                    | Group1                     | Group2                                | Group3 |
+| ----- | ------ | ----------------------- | -------------------------- | ------------------------------------- | ------ |
+| 530pm | 10m    | [[The Park Run]]        |                            |                                       |        |
+| 540pm | 5m     | Stretching              |                            |                                       |        |
+| 545pm | 30m    | [[Conditioning]]        |                            |                                       |        |
+| 615pm | 5m     | Chat                    |                            |                                       |        |
+| 620pm | 10m    |                         | OLine: Pursuit live tackle | Skill: Lead block pursuit live tackle | <br>   |
+| 630pm | 30m    | Breakout                | [[Snack\|Snack(Stick)]]    | [[Snack\|Snack(Stick)]]               |        |
+| 7pm   | 30m    | [[Snack\|Snack(Stick)]] |                            |                                       |        |
+| 730pm | 15m?   | Parent Meeting          |                            |                                       |        |
+# Previous
+
 ## Monday August 16th 530-730pm
 
 - #### Count: 35
@@ -17,7 +34,6 @@
 | 7pm   | 10m    | Breakout                                             | [[Snack\|Snack(Stick)]]    | [[Snack\|Snack(Stick)]]               |        |
 | 710pm | 20m    | [[Snack\|Snack(Stick)]]                              |                            |                                       |        |
 
-# Previous
 ## Friday August 16th 530-730pm
 
 - #### Count: 34
