@@ -20,8 +20,12 @@
 	- 1 `R` rover "Ron"
 
 
-# Defensive Aligment
+# Defensive Alignment
 ![[Pasted image 20240812165628.png]]
+
+# Alignments
+
+[[Defensive Alignments]]
 
 # 6-Man Box
 
