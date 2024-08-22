@@ -1,6 +1,28 @@
 
 # Today
 
+## Thursday August 18th 530-730pm
+
+- #### Count: 38
+- #### Focus: Defense (4-2-5)
+
+| Time  | Length | Team                  | Group1                        | Group2                                | Group3 |
+| ----- | ------ | --------------------- | ----------------------------- | ------------------------------------- | ------ |
+| 530pm | 10m    | [[The Park Run]]      | QB Work with Corey            | Robert Clutch Snap                    |        |
+| 540pm | 5m     | Stretching            |                               |                                       |        |
+| 545pm | 30m    | [[Conditioning]]      |                               |                                       |        |
+| 615pm | 20m    | breakout              | OLine:  Blocking Fundamentals | Skill: Lead block pursuit live tackle | <br>   |
+| 625pm | 15m    | Defense Alignment     |                               |                                       |        |
+| 640pm | 45m    | Defense Live Tackling |                               |                                       |        |
+| 725pm | 5m     | Meeting               |                               |                                       |        |
+
+# Previous
+
+## Wednesday August 17th 530-730pm
+
+- #### Count: 37
+- #### TVYFL Coaches Meeting (no practice)
+
 ## Tuesday August 16th 530-730pm
 
 - #### Count: 36
@@ -16,7 +38,7 @@
 | 630pm | 30m    | Breakout                | [[Snack\|Snack(Stick)]]           | [[Snack\|Snack(Stick)]]               |        |
 | 7pm   | 30m    | [[Snack\|Snack(Stick)]] |                                   |                                       |        |
 | 730pm | 15m?   | Parent Meeting          |                                   |                                       |        |
-# Previous
+
 
 ## Monday August 16th 530-730pm
 
