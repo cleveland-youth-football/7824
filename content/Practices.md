@@ -1,6 +1,23 @@
 
 # Today
 
+## Friday August 19th 530-730pm
+
+- #### Count: 39
+- #### Focus: Review, Prepare for Jamboree
+
+| Time  | Length | Team             | Group1                                            | Group2                                | Group3 |
+| ----- | ------ | ---------------- | ------------------------------------------------- | ------------------------------------- | ------ |
+| 530pm | 5m     | Stretching       |                                                   |                                       |        |
+| 535pm | 5m     | Burpees          |                                                   |                                       |        |
+| 540pm | 10m    | Game Day Warmups | QB Work with Corey                                | Robert Clutch Snap                    |        |
+| 550pm | 15m    | breakout         | OLine:  Blocking Fundamentals; Coaches Chest Pads | Skill: Lead block pursuit live tackle | <br>   |
+| 605pm | 10m    | Substitutions    |                                                   |                                       |        |
+| 615pm | 70m    | Review           |                                                   |                                       |        |
+| 725pm | 5m     | Meeting          |                                                   |                                       |        |
+
+# Previous
+
 ## Thursday August 18th 530-730pm
 
 - #### Count: 38
@@ -16,7 +33,6 @@
 | 640pm | 45m    | Defense Live Tackling |                               |                                       |        |
 | 725pm | 5m     | Meeting               |                               |                                       |        |
 
-# Previous
 
 ## Wednesday August 17th 530-730pm
 
