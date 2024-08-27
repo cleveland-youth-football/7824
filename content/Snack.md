@@ -19,6 +19,8 @@ This play puts the outside defender in conflict between covering the `stick` and
 #### Videos
 - [[How To Run The Stick Concept]]
 - [[The Stick Concept Why It Works Against Anything]]
+- [[Middle School Air Raid Ep 4 3 Quick Game Plays Concepts Chalk Cut Ups]]
+- [[4 Unique Ways To Run The Stick Concept]]
 
 ## Black (20p 2x1)
 ![[Pasted image 20240803005033.png]]
