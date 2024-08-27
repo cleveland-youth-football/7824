@@ -3,6 +3,7 @@ title: Welcome to CYF for 7/8 in 2024
 ---
 ## What's New?
 - I added the raw footage from the [Wells Jamboree](https://www.youtube.com/watch?v=V0QJRfC329s)
+- Added the [[7th-8th-football-parent-contacts.pdf]] document
 
 
 ## QR Code for This Website
