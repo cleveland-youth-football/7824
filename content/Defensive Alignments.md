@@ -9,7 +9,8 @@
 ### 2x2
 ![[Pasted image 20240822140610.png]]
 ### 3x1
-![[Pasted image 20240822140625.png]]### 3x1 TE
+![[Pasted image 20240822140625.png]]
+### 3x1 TE
 ![[Pasted image 20240822140638.png]]
 # Strong Left
 ### 2x1
