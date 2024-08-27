@@ -2,8 +2,11 @@
 title: Welcome to CYF for 7/8 in 2024
 ---
 ## What's New?
-- added a bunch of videos around conditioning and our playbook
-- watch them
+- I added the raw footage from the [Wells Jamboree](https://www.youtube.com/watch?v=V0QJRfC329s)
+
+
+## QR Code for This Website
+![[cyfl-website.png]]
 
 # [[Football]]
 
