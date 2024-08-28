@@ -1,7 +1,23 @@
 
 # Today
 
-## Wednesday August 27th 530-730pm
+## Wednesday August 28th 530-730pm
+
+- #### Count: 42; up-down has been removed
+- #### Focus: Special `Wisc` Plays
+
+| Time  | Length | Team                                           | Group1                                                         | Group2                                  | Group3                         |
+| ----- | ------ | ---------------------------------------------- | -------------------------------------------------------------- | --------------------------------------- | ------------------------------ |
+| 530pm | 10m    | [[The Park Run]]                               | QB Work with Cory                                              | Robert Clutch Snap                      | Lineman:<br>- Corbin<br>- Amyr |
+| 545pm | 5m     | Stretching                                     |                                                                |                                         |                                |
+| 550pm | 30m    | [[Conditioning]]                               |                                                                |                                         |                                |
+| 620pm | 40m    | breakout                                       | OLine:  Blocking<br>- IZ, OZ<br>- Trap, P/C<br>- Pass Blocking | Skill:<br>- Special (Tricks)<br>- Flood | <br>                           |
+| 7pm   | 25m    | Review: Special<br>Learn: Flood<br>Rem: Record |                                                                |                                         |                                |
+| 725pm | 5m     | Meeting                                        |                                                                |                                         |                                |
+
+# Previous
+
+## Tuesday August 27th 530-730pm
 
 - #### Count: 41; up-down has been removed
 - #### Focus: Special `Wisc` Plays
@@ -15,7 +31,6 @@
 | 7pm   | 25m    | Review: Jet, Screens<br>Learn: Special |                                             |                                                            |                                |
 | 725pm | 5m     | Meeting                                |                                             |                                                            |                                |
 
-# Previous
 
 ## Friday August 19th 530-730pm
 
