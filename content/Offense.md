@@ -42,13 +42,9 @@ We utilize `motion` (moving a player laterally along the line LOS prior to the s
 
 ## Pass
 
+- ### [[Screens]]
+
 - ### [[Snack]]
-
-- ### [[Mesh]]
-
-- ### [[Shallow-Cross]]
-
-- ### [[Y-Cross]]
 
 - ### [[Flood]]
 
