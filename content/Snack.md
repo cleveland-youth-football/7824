@@ -22,6 +22,7 @@ This play puts the outside defender in conflict between covering the `stick` and
 - [[Middle School Air Raid Ep 4 3 Quick Game Plays Concepts Chalk Cut Ups]]
 - [[4 Unique Ways To Run The Stick Concept]]
 - [[Middle School Air Raid Stick Concept Cut Ups]]
+- [[Episode 5 3 Quick Game Plays]]
 
 ## Black (20p 2x1)
 ![[Pasted image 20240803005033.png]]
@@ -41,6 +42,7 @@ This play puts the outside defender in conflict between covering the `stick` and
 - [[Snag Concept in the Spread Offense]]
 - [[Ohio State Snag Concept]]
 - [[Xs Os The Snag and Spot Concepts]]
+- [[Episode 5 3 Quick Game Plays]]
 
 ## Black (20p 2x1)
 ![[Pasted image 20240803005115.png]]
