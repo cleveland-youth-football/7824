@@ -1,6 +1,23 @@
 
 # Today
 
+## Thursday August 29th 530-730pm
+
+- #### Count: 42; up-down has been removed
+- #### Focus: Defense
+
+| Time  | Length | Team                             | Group1            | Group2             | Group3                                     |
+| ----- | ------ | -------------------------------- | ----------------- | ------------------ | ------------------------------------------ |
+| 530pm | 10m    | [[The Park Run]]                 | QB Work with Cory | Robert Clutch Snap | Lineman:<br>- Corbin<br>- Amyr<br>- Isaiah |
+| 545pm | 5m     | Stretching                       |                   |                    |                                            |
+| 550pm | 30m    | [[Conditioning]]                 |                   |                    |                                            |
+| 620pm | 40m    | breakout                         | 6-man box + Henry | Defensive Backs    | Tackling School<br>                        |
+| 7pm   | 25m    | Review: Flood<br>Review: Defense |                   |                    |                                            |
+| 725pm | 5m     | Meeting                          |                   |                    |                                            |
+|       |        |                                  |                   |                    |                                            |
+
+# Previous
+
 ## Wednesday August 28th 530-730pm
 
 - #### Count: 42; up-down has been removed
@@ -15,7 +32,6 @@
 | 7pm   | 25m    | Review: Special<br>Learn: Flood<br>Rem: Record |                                                                |                                         |                                |
 | 725pm | 5m     | Meeting                                        |                                                                |                                         |                                |
 
-# Previous
 
 ## Tuesday August 27th 530-730pm
 
