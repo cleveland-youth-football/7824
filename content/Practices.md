@@ -6,6 +6,22 @@
 - #### Count: 42; up-down has been removed
 - #### Focus: Defense
 
+| Time  | Length | Team                                                            | Group1            | Group2             | Group3                                     |
+| ----- | ------ | --------------------------------------------------------------- | ----------------- | ------------------ | ------------------------------------------ |
+| 530pm | 10m    | [[The Park Run]]                                                | QB Work with Cory | Robert Clutch Snap | Lineman:<br>- Corbin<br>- Amyr<br>- Isaiah |
+| 545pm | 5m     | Stretching                                                      |                   |                    |                                            |
+| 550pm | 30m    | [[Conditioning]]                                                |                   |                    |                                            |
+| 620pm | 65m    | Review: Defense<br>Learn: <br>- Special Teams<br>- Play Calling |                   |                    |                                            |
+| 725pm | 5m     | Meeting                                                         |                   |                    |                                            |
+|       |        |                                                                 |                   |                    |                                            |
+
+# Previous
+
+## Friday August 30th 530-730pm
+
+- #### Count: 42; up-down has been removed
+- #### Focus: Special Teams
+
 | Time  | Length | Team                             | Group1            | Group2             | Group3                                     |
 | ----- | ------ | -------------------------------- | ----------------- | ------------------ | ------------------------------------------ |
 | 530pm | 10m    | [[The Park Run]]                 | QB Work with Cory | Robert Clutch Snap | Lineman:<br>- Corbin<br>- Amyr<br>- Isaiah |
@@ -16,7 +32,6 @@
 | 725pm | 5m     | Meeting                          |                   |                    |                                            |
 |       |        |                                  |                   |                    |                                            |
 
-# Previous
 
 ## Wednesday August 28th 530-730pm
 
