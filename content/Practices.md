@@ -3,6 +3,21 @@
 
 ## Thursday August 29th 530-730pm
 
+- #### Count: 45
+- #### Focus: Defense
+
+| Time  | Length | Team                          | Group1 | Group2       | Group3 |
+| ----- | ------ | ----------------------------- | ------ | ------------ | ------ |
+| 530pm | 30m    | Stretching / [[Conditioning]] |        |              |        |
+| 6pm   | 15m    | Offensive Drills Breakout     | OL     | QBs          | Skill  |
+| 615pm | 15m    | Defensive Drills Breakout     | DEs    | Blitz/Stunts | DBs    |
+| 630pm | 55m    | Review & Run through          |        |              |        |
+| 725pm | 5m     | Meeting                       |        |              |        |
+
+# Previous
+
+## Tuesday September 3rd 530-730pm
+
 - #### Count: 42; up-down has been removed
 - #### Focus: Defense
 
@@ -15,7 +30,6 @@
 | 725pm | 5m     | Meeting                                                         |                   |                    |                                            |
 |       |        |                                                                 |                   |                    |                                            |
 
-# Previous
 
 ## Friday August 30th 530-730pm
 
