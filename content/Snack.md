@@ -28,7 +28,7 @@ This play puts the outside defender in conflict between covering the `stick` and
 ![[Pasted image 20240803005033.png]]
 
 ## Green (10p 2x2)
-![[Pasted image 20240803005044.png]]
+![[Pasted image 20240901185603.png]]
 
 ## Yellow (10p 3x1)
 ![[Pasted image 20240803005056.png]]
@@ -48,7 +48,7 @@ This play puts the outside defender in conflict between covering the `stick` and
 ![[Pasted image 20240803005115.png]]
 
 ## Green (10p 2x2)
-![[Pasted image 20240803005125.png]]
+![[Pasted image 20240901185710.png]]
 
 ## Yellow (10p 3x1)
 ![[Pasted image 20240803005446.png]]

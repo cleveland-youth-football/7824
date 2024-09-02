@@ -30,4 +30,4 @@ The Trap play is a `gap-scheme` play where you "trap" the `DT` (Defensive Tackle
 ![[Pasted image 20240802173436.png]]
 \
 ## Yellow (10p 3x1)
-![[Pasted image 20240802173453.png]]
+![[Pasted image 20240901182851.png]]

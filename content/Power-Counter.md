@@ -15,18 +15,9 @@
 
 ## Black (20p 2x1)
 
-### Power (Strong)
-![[Pasted image 20240802174134.png]]
-#### Videos
-- [[Football 101 Power]]
-- [[Preview of Offensive Line Manual for Gap-Down-Backer]]
-- [[Single Back Power Part III]]
-- [[How to Run Single Back Power Part IV]]
-- [[Offensive Line Gap Scheme Drills]]
-- [[Power Up Your Drive Blocks- LINEPROTIPS 005]]
-- [[Matt Jones - Offensive Line Pulling Techniques]]
 ### Counter (Weak)
-![[Pasted image 20240802175029.png]]
+![[Pasted image 20240901183900.png]]
+
 #### Videos
 - [[Football 101 Counter]]
 - [[How To Run The Counter Play In Football - Complete Guide]]
@@ -36,20 +27,23 @@
 - [[Counter in the Spread Offense Running Game]]
 - [[Oklahoma Sooners GT Counter]]
 - [[Matt Jones - Offensive Line Pulling Techniques]]
+
+### Power (Strong)
+![[Pasted image 20240901183913.png]]
+
+#### Videos
+- [[Football 101 Power]]
+- [[Preview of Offensive Line Manual for Gap-Down-Backer]]
+- [[Single Back Power Part III]]
+- [[How to Run Single Back Power Part IV]]
+- [[Offensive Line Gap Scheme Drills]]
+- [[Power Up Your Drive Blocks- LINEPROTIPS 005]]
+- [[Matt Jones - Offensive Line Pulling Techniques]]
+
 ## Green (10p 2x2)
-
-### Power (Strong)
-![[Pasted image 20240802174212.png]]
-#### Videos
-- [[Football 101 Power]]
-- [[Preview of Offensive Line Manual for Gap-Down-Backer]]
-- [[Single Back Power Part III]]
-- [[How to Run Single Back Power Part IV]]
-- [[Offensive Line Gap Scheme Drills]]
-- [[Power Up Your Drive Blocks- LINEPROTIPS 005]]
-- [[Matt Jones - Offensive Line Pulling Techniques]]
 ### Counter (Weak)
-![[Pasted image 20240802175045.png]]
+![[Pasted image 20240901183926.png]]
+
 #### Videos
 - [[Football 101 Counter]]
 - [[How To Run The Counter Play In Football - Complete Guide]]
@@ -59,20 +53,23 @@
 - [[Counter in the Spread Offense Running Game]]
 - [[Oklahoma Sooners GT Counter]]
 - [[Matt Jones - Offensive Line Pulling Techniques]]
+
+### Power (Strong)
+![[Pasted image 20240901183936.png]]
+
+#### Videos
+- [[Football 101 Power]]
+- [[Preview of Offensive Line Manual for Gap-Down-Backer]]
+- [[Single Back Power Part III]]
+- [[How to Run Single Back Power Part IV]]
+- [[Offensive Line Gap Scheme Drills]]
+- [[Power Up Your Drive Blocks- LINEPROTIPS 005]]
+- [[Matt Jones - Offensive Line Pulling Techniques]]
+
 ## Yellow (10p 3x1)
-
-### Power (Strong)
-![[Pasted image 20240802174229.png]]
-#### Videos
-- [[Football 101 Power]]
-- [[Preview of Offensive Line Manual for Gap-Down-Backer]]
-- [[Single Back Power Part III]]
-- [[How to Run Single Back Power Part IV]]
-- [[Offensive Line Gap Scheme Drills]]
-- [[Power Up Your Drive Blocks- LINEPROTIPS 005]]
-- [[Matt Jones - Offensive Line Pulling Techniques]]
 ### Counter (Weak)
-![[Pasted image 20240802175719.png]]
+![[Pasted image 20240901183951.png]]
+
 #### Videos
 - [[Football 101 Counter]]
 - [[How To Run The Counter Play In Football - Complete Guide]]
@@ -81,4 +78,16 @@
 - [[Counter Trey with Jet Motion]]
 - [[Counter in the Spread Offense Running Game]]
 - [[Oklahoma Sooners GT Counter]]
+- [[Matt Jones - Offensive Line Pulling Techniques]]
+
+### Power (Strong)
+![[Pasted image 20240901184007.png]]
+
+#### Videos
+- [[Football 101 Power]]
+- [[Preview of Offensive Line Manual for Gap-Down-Backer]]
+- [[Single Back Power Part III]]
+- [[How to Run Single Back Power Part IV]]
+- [[Offensive Line Gap Scheme Drills]]
+- [[Power Up Your Drive Blocks- LINEPROTIPS 005]]
 - [[Matt Jones - Offensive Line Pulling Techniques]]

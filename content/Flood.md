@@ -23,4 +23,4 @@
 ![[Pasted image 20240828164705.png]]
 
 ## Yellow (10p 3x1)
-![[Pasted image 20240828164716.png]]
+![[Pasted image 20240901185849.png]]
