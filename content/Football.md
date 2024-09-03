@@ -21,5 +21,14 @@
 - we will add to this list as we progress through the season
 
 ## [[Playbooks]]
+- our play books
+- PDFs from Hudl
 
 ## [[Wristbands]]
+- PDFs of our wristbands
+	- Skill
+	- QB
+	- OLine
+
+## [[Coaching Vids]]
+- some shared video links for coaching
