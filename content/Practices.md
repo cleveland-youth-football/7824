@@ -1,22 +1,62 @@
+# Upcoming
 
-# Today
+## Friday September 6th 530-730pm
 
-## Thursday August 29th 530-730pm
-
-- #### Count: 45
-- #### Focus: Defense
+- #### Focus: Walkthrough
 
 | Time  | Length | Team                          | Group1 | Group2       | Group3 |
 | ----- | ------ | ----------------------------- | ------ | ------------ | ------ |
 | 530pm | 30m    | Stretching / [[Conditioning]] |        |              |        |
-| 6pm   | 15m    | Offensive Drills Breakout     | OL     | QBs          | Skill  |
-| 615pm | 15m    | Defensive Drills Breakout     | DEs    | Blitz/Stunts | DBs    |
-| 630pm | 55m    | Review & Run through          |        |              |        |
+| 6pm   | 20m    | Offensive Drills Breakout     | OL     | QBs          | Skill  |
+| 620pm | 20m    | Defensive Drills Breakout     | DEs    | Blitz/Stunts | DBs    |
+| 640pm | 45m    | Review & Run through          |        |              |        |
+| 725pm | 5m     | Meeting                       |        |              |        |
+
+
+## Thursday September 5th 530-730pm
+
+- #### Count: 45
+- #### Focus: Review
+
+| Time  | Length | Team                          | Group1 | Group2       | Group3 |
+| ----- | ------ | ----------------------------- | ------ | ------------ | ------ |
+| 530pm | 30m    | Stretching / [[Conditioning]] |        |              |        |
+| 6pm   | 20m    | Offensive Drills Breakout     | OL     | QBs          | Skill  |
+| 620pm | 20m    | Defensive Drills Breakout     | DEs    | Blitz/Stunts | DBs    |
+| 640pm | 45m    | Review & Run through          |        |              |        |
+| 725pm | 5m     | Meeting                       |        |              |        |
+
+## Wednesday September 4th 530-730pm
+
+- #### Count: 45
+- #### Focus: Review
+
+| Time  | Length | Team                          | Group1 | Group2       | Group3 |
+| ----- | ------ | ----------------------------- | ------ | ------------ | ------ |
+| 530pm | 30m    | Stretching / [[Conditioning]] |        |              |        |
+| 6pm   | 20m    | Offensive Drills Breakout     | OL     | QBs          | Skill  |
+| 620pm | 20m    | Defensive Drills Breakout     | DEs    | Blitz/Stunts | DBs    |
+| 640pm | 45m    | Review & Run through          |        |              |        |
+| 725pm | 5m     | Meeting                       |        |              |        |
+
+# Today
+
+## Tuesday September 3rd 530-730pm
+
+- #### Count: 45
+- #### Focus: Review
+
+| Time  | Length | Team                          | Group1 | Group2       | Group3 |
+| ----- | ------ | ----------------------------- | ------ | ------------ | ------ |
+| 530pm | 30m    | Stretching / [[Conditioning]] |        |              |        |
+| 6pm   | 20m    | Offensive Drills Breakout     | OL     | QBs          | Skill  |
+| 620pm | 20m    | Defensive Drills Breakout     | DEs    | Blitz/Stunts | DBs    |
+| 640pm | 45m    | Review & Run through          |        |              |        |
 | 725pm | 5m     | Meeting                       |        |              |        |
 
 # Previous
 
-## Tuesday September 3rd 530-730pm
+## Thursday August 29th 530-730pm
 
 - #### Count: 42; up-down has been removed
 - #### Focus: Defense
