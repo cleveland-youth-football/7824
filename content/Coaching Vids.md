@@ -16,7 +16,7 @@
 	- Down
 	- Backer
 - [Drake B this is inside zone, don't get beat inside](https://youtu.be/H_geWmU6Ofc?t=534)
-	- Drake B we are not just chipping, double team back to the linebacker; only come off of the double team if the LB comes your way
+	- Drake M we are not just chipping, double team back to the linebacker; only come off of the double team if the LB comes your way
 - [Drake M & Avery get beat despite leverage](https://youtu.be/V0QJRfC329s?t=980)
 	- T Andre running too slow on option; go!
 - [Avery lining up incorrectly](https://youtu.be/V0QJRfC329s?t=1071)
@@ -27,3 +27,13 @@
 	- Drake M not reaching NOR pushing the edge defender out of the play
 	- Henry not doing OZ- blocking; nor Robert
 - [Amyr no bearhugs in FB](https://youtu.be/H_geWmU6Ofc?t=597)
+
+#### Blanks
+- [Zone Blocking Flashcards](https://www.cram.com/flashcards/zone-blocking-4-2-14404701)
+
+##### 4-2 Over
+![[Pasted image 20240904082949.png]]
+##### 4-2 Under
+![[Pasted image 20240904083117.png]]
+##### 4-2 Even
+![[Pasted image 20240904083138.png]]
