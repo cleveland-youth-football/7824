@@ -1,3 +1,4 @@
+[[Zone-Blocking-Flashcards]]
 ## Combo Calls
 - "Ace" `C` and `PS G`
 - "Deuce" `PS G` and `PS T`

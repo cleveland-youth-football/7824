@@ -2,7 +2,7 @@
 title: Welcome to CYF for 7/8 in 2024
 ---
 ## What's New?
-- [Zone Blocking Flashcards](https://www.cram.com/flashcards/zone-blocking-4-2-14404701)
+- [[Zone-Blocking-Flashcards]]
 
 
 ## QR Code for This Website
