@@ -1,5 +1,3 @@
-## Assignments
-- items
 
 ### Offensive Line
 - BOB or big on big

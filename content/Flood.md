@@ -1,11 +1,13 @@
-## Assignments
-- items
 
 ### Offensive Line
-- items
+- is running IZ- on Black and Green but BOB, C has the Mike on Yellow
+- note on the IZ- plays the BS OT is locked on that DE to prevent him from destroying the play
 
 ### Skill Positions
-- items
+- 10yd Post
+- 10yd Out
+- Slide by the H to the flat
+- 5yd Drag
 
 - flood concept where you "flood" one side of the field with most of the WRs
 - setup with a fake zone run and boot

@@ -1,15 +1,18 @@
-blah
+These are quick hitting plays that get the ball outside in the play maker's hands. These are quick hitting, high probability throws that are really an extension of the run game.
 
 ### Offensive Line
 - [[Pass Protection]]
 
 ### Skill Positions
-- items
+- WRs must be good at stalk blocking their assignment
+	- approach at the proper angle
+	- break down and mirror the motion of the defender
+	- once engaged, be physical and block the path the defender wants to take
+	- if you feel the player "pulling away" from you, let go
 
 # Screens (v1)
-- #1 WR runs the clear out streak, with a mandatory-outside-release (mor)
-- #2 WR runs the `stick` route 1yd behind and 1yd inside of where the `OLB` was at the snap
-- the `T`, `H` or #3 WR runs to the `flat`
+- Smoke Screen to the FS
+- Crack Screen to the BS
 #### Videos
 - links
 
