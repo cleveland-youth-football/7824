@@ -1,7 +1,7 @@
 ---
-date: 2024-08-28
-day: Wed
-time: 03:58
+date: 2024-09-09
+day: Mon
+time: 07:42
 tags:
   - corner
   - fadeout

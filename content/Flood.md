@@ -8,7 +8,7 @@
 - items
 
 - flood concept where you "flood" one side of the field with most of the WRs
-- setup with we fake zone run and boot
+- setup with a fake zone run and boot
 #### Videos
 - [[How To Run The Flood Concept]]
 - [[Anatomy of a Play WR Split Zone Flood Concept]]
