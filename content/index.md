@@ -2,6 +2,8 @@
 title: Welcome to CYF for 7/8 in 2024
 ---
 ## What's New?
+- [[Fade Out]]
+- [[Power-Counter]] note: we are only adding Counter(C-) for Black, Green and Yellow 
 - [[Zone-Blocking-Flashcards]]
 
 

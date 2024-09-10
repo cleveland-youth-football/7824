@@ -1,4 +1,22 @@
-# Upcoming
+
+# Today
+
+## Tuesday September 10th 530-730pm
+
+- #### Count: 45
+- #### Focus: Review
+
+| Time  | Length | Team             | Group1                     | Group2                                           | Group3 |
+| ----- | ------ | ---------------- | -------------------------- | ------------------------------------------------ | ------ |
+| 530pm | 10m    | [[The Park Run]] | QB Work with Cory          | Clutch Snap:<br>- Corbin<br>- Rpbert<br>- Isaiah | <br>   |
+| 545pm | 5m     | Stretching       |                            |                                                  |        |
+| 550pm | 30m    | [[Conditioning]] |                            |                                                  |        |
+| 620pm | 30m    | breakout         | OLine +H, Z:<br>- Counter  | Skill:<br>- Fade Out<br>- IZ Whippie             |        |
+| 650pm | 35m    | offense          | Counter, Fade Out, Screens |                                                  |        |
+| 725pm | 5m     | Meeting          |                            |                                                  |        |
+|       |        |                  |                            |                                                  |        |
+
+# Previous
 
 ## Friday September 6th 530-730pm
 
@@ -26,9 +44,6 @@
 | 640pm | 45m    | Review & Run through          |        |              |        |
 | 725pm | 5m     | Meeting                       |        |              |        |
 
-
-# Today
-
 ## Wednesday September 4th 530-730pm
 
 - #### Count: 45
@@ -41,8 +56,6 @@
 | 620pm | 20m    | Stretching                |        |        |        |
 | 630pm | 55m    | Review & Run through      |        |        |        |
 | 725pm | 5m     | Meeting                   |        |        |        |
-
-# Previous
 
 ## Tuesday September 3rd 530-730pm
 
