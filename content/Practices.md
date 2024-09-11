@@ -1,9 +1,26 @@
 
 # Today
 
+## Tuesday September 11th 530-730pm
+
+- #### Count: 46
+- #### Focus: Pictures, Special Teams, Defense
+
+| Time  | Length | Team             | Group1                                           | Group2                                           | Group3 |
+| ----- | ------ | ---------------- | ------------------------------------------------ | ------------------------------------------------ | ------ |
+| 530pm | 10m    | [[The Park Run]] | QB Work with Cory                                | Clutch Snap:<br>- Corbin<br>- Rpbert<br>- Isaiah | <br>   |
+| 545pm | 5m     | Stretching       |                                                  |                                                  |        |
+| 550pm | 30m    | [[Conditioning]] |                                                  |                                                  |        |
+| 620pm | 30m    | breakout         | OLine +H, Z:<br>- Counter<br>- BOB pass blocking | Skill:<br>- Fade Out<br>- IZ Whippie             |        |
+| 650pm | 15m    | special teams    | KO, KR, Punt, PR                                 |                                                  |        |
+| 705pm | 20m    | defense          |                                                  |                                                  |        |
+| 725pm | 5m     | Meeting          |                                                  |                                                  |        |
+
+# Previous
+
 ## Tuesday September 10th 530-730pm
 
-- #### Count: 45
+- #### Count: 46
 - #### Focus: Review
 
 | Time  | Length | Team             | Group1                     | Group2                                           | Group3 |
@@ -16,7 +33,6 @@
 | 725pm | 5m     | Meeting          |                            |                                                  |        |
 |       |        |                  |                            |                                                  |        |
 
-# Previous
 
 ## Friday September 6th 530-730pm
 
