@@ -1,7 +1,23 @@
 
 # Today
 
-## Tuesday September 11th 530-730pm
+## Thursday September 12th 530-730pm
+
+- #### Count: 46
+- #### Focus: Walkthru / Review
+
+| Time  | Length | Team                | Group1                                           | Group2                                           | Group3 |
+| ----- | ------ | ------------------- | ------------------------------------------------ | ------------------------------------------------ | ------ |
+| 530pm | 10m    | [[The Park Run]] x2 | QB Work with Cory                                | Clutch Snap:<br>- Corbin<br>- Rpbert<br>- Isaiah | <br>   |
+| 555pm | 5m     | Stretching          |                                                  |                                                  |        |
+| 6pm   | 10m    | [[Conditioning]]    |                                                  |                                                  |        |
+| 610pm | 20m    | breakout            | OLine +H, Z:<br>- Counter<br>- BOB pass blocking | Skill:<br>- Fade Out<br>- IZ Whippie             |        |
+| 630pm | 55m    | walkthru / review   |                                                  |                                                  |        |
+| 725pm | 5m     | Meeting             |                                                  |                                                  |        |
+
+# Previous
+
+## Wednesday September 11th 530-730pm
 
 - #### Count: 46
 - #### Focus: Pictures, Special Teams, Defense
@@ -16,7 +32,6 @@
 | 705pm | 20m    | defense          |                                                  |                                                  |        |
 | 725pm | 5m     | Meeting          |                                                  |                                                  |        |
 
-# Previous
 
 ## Tuesday September 10th 530-730pm
 
