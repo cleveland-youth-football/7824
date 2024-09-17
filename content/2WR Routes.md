@@ -77,7 +77,6 @@ This guide provides the necessary details to understand and execute these 2WR co
 # Screen Routes
 
 ### `S1` Crack Screen
-### `S1` Crack Screen
 ![[Pasted image 20240724083919.png]]
 
 #### Crack Screen Route Breakdown
