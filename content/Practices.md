@@ -1,6 +1,22 @@
 
 # Today
 
+## Tuesday September 17th 530-730pm
+
+- #### Count: 47
+- #### Focus: Counter/Power; new XYZH on all plays
+
+| Time  | Length | Team                            | Group1                                           | Group2                                            | Group3 |
+| ----- | ------ | ------------------------------- | ------------------------------------------------ | ------------------------------------------------- | ------ |
+| 530pm | 15m    | [[The Park Run]]                | Jude QB Work with Cory                           | Clutch Snap:<br>- Drake M<br>- Robert<br>- Isaiah | <br>   |
+| 545pm | 5m     | Stretching                      |                                                  |                                                   |        |
+| 550pm | 30m    | [[Conditioning]]                |                                                  |                                                   |        |
+| 620pm | 20m    | breakout                        | OLine +H, Z:<br>- Counter<br>- BOB pass blocking | Skill:<br>- 3WR crack-arc block                   |        |
+| 640pm | 55m    | power/counter new XYZH on plays |                                                  |                                                   |        |
+| 725pm | 5m     | Meeting                         |                                                  |                                                   |        |
+
+# Previous
+
 ## Thursday September 12th 530-730pm
 
 - #### Count: 46
@@ -15,7 +31,6 @@
 | 630pm | 55m    | walkthru / review   |                                                  |                                                  |        |
 | 725pm | 5m     | Meeting             |                                                  |                                                  |        |
 
-# Previous
 
 ## Wednesday September 11th 530-730pm
 
