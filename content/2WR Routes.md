@@ -77,15 +77,27 @@ This guide provides the necessary details to understand and execute these 2WR co
 # Screen Routes
 
 ### `S1` Crack Screen
-
+### `S1` Crack Screen
 ![[Pasted image 20240724083919.png]]
-#### Crack Screen Route Breakdown
 
+#### Crack Screen Route Breakdown
 - **Inside Receiver:**
     - Run towards the LOS then directly to the sideline to prepare to receive the screen pass
     - Catch the ball quickly and turn upfield
 - **Outside Receiver:**
     - Block the defender lined up on the Inside Receiver or the MDM
+### `S1` Crack-Arc Screen (variation with 3WRs)
+![[Pasted image 20240917134407.png]]
+#### Crack-Arc Screen Route Breakdown
+- **Inside Receiver:**
+    - Run towards the LOS then directly to the sideline to prepare to receive the screen pass
+    - Catch the ball quickly and turn upfield
+- **Middle Receiver:**
+    - Arc towards the outside defender over the #1 WR
+    - Block inside or outside, but give the H a clear read
+- **Outside Receiver:**
+    - Block the defender lined up on the Middle Receiver or the MDM
+
 ### `S2` Bubble Screen
 
 ![[Pasted image 20240724083938.png]]
