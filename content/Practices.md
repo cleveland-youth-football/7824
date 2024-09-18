@@ -1,6 +1,21 @@
 
 # Today
 
+## Wednesday September 18th 530-730pm
+
+- #### Count: 47
+- #### Focus: Counter/Power; new XYZH on all plays
+
+| Time  | Length | Team                              | Group1                                                    | Group2                                                | Group3 |
+| ----- | ------ | --------------------------------- | --------------------------------------------------------- | ----------------------------------------------------- | ------ |
+| 530pm | 15m    | [[The Park Run]]                  | Jude QB Work with Cory; throw screen passes over and over | Lineman work:<br>- Corbin<br>- Robert<br>- Isaiah<br> | <br>   |
+| 545pm | 5m     | Stretching                        |                                                           |                                                       |        |
+| 550pm | 30m    | [[Conditioning]]                  |                                                           |                                                       |        |
+| 620pm | 20m    | breakout                          | OLine +H, Z:<br>- Power / Counter<br>- Outside Zone       | Skill:<br>- Option<br>- Screen Passes                 |        |
+| 640pm | 55m    | Power / Counter new XYZH on plays |                                                           |                                                       |        |
+| 725pm | 5m     | Meeting                           |                                                           |                                                       |        |
+# Previous
+
 ## Tuesday September 17th 530-730pm
 
 - #### Count: 47
@@ -15,7 +30,6 @@
 | 640pm | 55m    | power/counter new XYZH on plays |                                                           |                                                   |                               |
 | 725pm | 5m     | Meeting                         |                                                           |                                                   |                               |
 
-# Previous
 
 ## Thursday September 12th 530-730pm
 
