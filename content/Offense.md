@@ -52,6 +52,8 @@ We utilize `motion` (moving a player laterally along the line LOS prior to the s
 
 - ### [[Special]]
 
+- ### [[Viking]]
+
 ## Wristbands
 
 ## Play Calling
