@@ -6,6 +6,7 @@ title: Welcome to CYF for 7/8 in 2024
 - [[Power-Counter]] We are now running Power and Counter
 - [[Zone-Blocking-Flashcards]]
 - [Tuesday Practice Sep-17-24](https://www.youtube.com/watch?v=T9Tzoi-J5gA)
+- [Wednesday Practice Sep-18-24](https://www.youtube.com/watch?v=rgImFHT2-L4)
 
 
 ## QR Code for This Website
