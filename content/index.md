@@ -2,12 +2,12 @@
 title: Welcome to CYF for 7/8 in 2024
 ---
 ## What's New?
+- [[Beaverton Plays]]
 - [[2WR Routes#Screen Routes]] <- checkout the new Crack-Arc blocks with 3WRs!
 - [[Power-Counter]] We are now running Power and Counter
 - [[Zone-Blocking-Flashcards]]
 - [Tuesday Practice Sep-17-24](https://www.youtube.com/watch?v=T9Tzoi-J5gA)
 - [Wednesday Practice Sep-18-24](https://www.youtube.com/watch?v=rgImFHT2-L4)
-- [[alignment-2x2-vs-jeff.pdf]]
 
 
 ## QR Code for This Website
