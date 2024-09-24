@@ -1,6 +1,20 @@
 
 # Today
 
+## Tuesday September 24th 530-730pm
+
+- #### Count: 48
+- #### Focus: B/G/Y for Flo, Wisc, Jersey
+
+| Time  | Length | Team                                                                                | Group1                                  | Group2                                   | Group3                  |
+| ----- | ------ | ----------------------------------------------------------------------------------- | --------------------------------------- | ---------------------------------------- | ----------------------- |
+| 530pm | 5m     | Stretching                                                                          |                                         |                                          |                         |
+| 535pm | 25m    | Breakout                                                                            | OLine +H, Z:<br>- Blocking vs 3x3 Stack | Skill:<br>- Stalk Blocking<br>- Tackling | Mike's tackling schoool |
+| 6pm   | 30pm   | Defensive Alignment & Assignment                                                    |                                         |                                          |                         |
+| 630pm | 55m    | H-Review for Oliver<br>- Counter / Power<br>- Indy / Okie<br>- Screens<br>- Motions |                                         |                                          |                         |
+| 725pm | 5pm    | Wrapup                                                                              |                                         |                                          |                         |
+# Previous
+
 ## Thursday September 19th 530-730pm
 
 - #### Count: 47
@@ -14,7 +28,7 @@
 | 610pm | 10m    | breakout         | OLine +H, Z:<br>- Splits<br>- Power / Counter<br>- Outside Zone | Skill:<br>- Option<br>- Screen Passes                 |        |
 | 620pm | 65m    | Review           |                                                                 |                                                       |        |
 | 725pm | 5m     | Meeting          |                                                                 |                                                       |        |
-# Previous
+
 
 ## Wednesday September 18th 530-730pm
 
