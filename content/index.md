@@ -3,6 +3,7 @@ title: Welcome to CYF for 7/8 in 2024
 ---
 ## What's New?
 - [[Beaverton Plays]]
+- [[Jefferson Notes]]
 - [[2WR Routes#Screen Routes]] <- checkout the new Crack-Arc blocks with 3WRs!
 - [[Power-Counter]] We are now running Power and Counter
 - [[Zone-Blocking-Flashcards]]
