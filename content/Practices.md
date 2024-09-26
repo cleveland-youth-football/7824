@@ -1,19 +1,26 @@
 
 # Today
 
+## Thursday September 26th 530-730pm
+
+- #### Count: 48
+- #### Focus: Indy, Okie, Rado vs 3x3 Stack; Miss, Jersey
+
+| Time  | Length | Team                                                                                | Group1                                  | Group2                                   | Group3                  |
+| ----- | ------ | ----------------------------------------------------------------------------------- | --------------------------------------- | ---------------------------------------- | ----------------------- |
+| 530pm | 5m     | Stretching                                                                          |                                         |                                          |                         |
+| 525pm | 25m    | Breakout                                                                            | OLine +H, Z:<br>- Blocking vs 3x3 Stack | Skill:<br>- Stalk Blocking<br>- Tackling | Mike's tackling schoool |
+| 6pm   | 30m    | Defensive Alignment & Assignment                                                    |                                         |                                          |                         |
+| 630pm | 30m    | H-Review for Oliver<br>- Counter / Power<br>- Indy / Okie<br>- Screens<br>- Motions |                                         |                                          |                         |
+| 7pm   | 25m    | Defensive Recog                                                                     |                                         |                                          |                         |
+| 725pm | 5pm    | Wrapup                                                                              |                                         |                                          |                         |
+# Previous
+
 ## Tuesday September 24th 530-730pm
 
 - #### Count: 48
 - #### Focus: Blocking 3x3, Tackling & Motion for H
 
-| Time  | Length | Team                                                                                | Group1                                  | Group2                                   | Group3                  |
-| ----- | ------ | ----------------------------------------------------------------------------------- | --------------------------------------- | ---------------------------------------- | ----------------------- |
-| 530pm | 5m     | Stretching                                                                          |                                         |                                          |                         |
-| 535pm | 25m    | Breakout                                                                            | OLine +H, Z:<br>- Blocking vs 3x3 Stack | Skill:<br>- Stalk Blocking<br>- Tackling | Mike's tackling schoool |
-| 6pm   | 30pm   | Defensive Alignment & Assignment                                                    |                                         |                                          |                         |
-| 630pm | 55m    | H-Review for Oliver<br>- Counter / Power<br>- Indy / Okie<br>- Screens<br>- Motions |                                         |                                          |                         |
-| 725pm | 5pm    | Wrapup                                                                              |                                         |                                          |                         |
-# Previous
 
 ## Thursday September 19th 530-730pm
 
