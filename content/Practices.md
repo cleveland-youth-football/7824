@@ -11,8 +11,7 @@
 | 530pm | 5m     | Stretching                                                                          |                                         |                                          |                         |
 | 525pm | 25m    | Breakout                                                                            | OLine +H, Z:<br>- Blocking vs 3x3 Stack | Skill:<br>- Stalk Blocking<br>- Tackling | Mike's tackling schoool |
 | 6pm   | 30m    | Defensive Alignment & Assignment                                                    |                                         |                                          |                         |
-| 630pm | 30m    | H-Review for Oliver<br>- Counter / Power<br>- Indy / Okie<br>- Screens<br>- Motions |                                         |                                          |                         |
-| 7pm   | 25m    | Defensive Recog                                                                     |                                         |                                          |                         |
+| 630pm | 55m    | H-Review for Oliver<br>- Counter / Power<br>- Indy / Okie<br>- Screens<br>- Motions |                                         |                                          |                         |
 | 725pm | 5pm    | Wrapup                                                                              |                                         |                                          |                         |
 # Previous
 
