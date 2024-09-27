@@ -1,6 +1,20 @@
 
 # Today
 
+## Friday September 27th 530-730pm
+
+- #### Count: 48
+- #### Focus: Review
+
+| Time  | Length | Team                             | Group1 | Group2 | Group3 |
+| ----- | ------ | -------------------------------- | ------ | ------ | ------ |
+| 530pm | 5m     | Stretching                       |        |        |        |
+| 525pm | 25m    | Blocking & Block Destruction     |        |        |        |
+| 6pm   | 30m    | Defensive Alignment & Assignment |        |        |        |
+| 630pm | 55m    | Offense Review                   |        |        |        |
+| 725pm | 5pm    | Wrapup                           |        |        |        |
+# Previous
+
 ## Thursday September 26th 530-730pm
 
 - #### Count: 48
@@ -13,7 +27,6 @@
 | 6pm   | 30m    | Defensive Alignment & Assignment                                                    |                                         |                                          |                         |
 | 630pm | 55m    | H-Review for Oliver<br>- Counter / Power<br>- Indy / Okie<br>- Screens<br>- Motions |                                         |                                          |                         |
 | 725pm | 5pm    | Wrapup                                                                              |                                         |                                          |                         |
-# Previous
 
 ## Tuesday September 24th 530-730pm
 
