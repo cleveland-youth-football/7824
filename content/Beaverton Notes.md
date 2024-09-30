@@ -14,6 +14,7 @@ negative callouts
 playcalling
 - no Jersey (Jet)
 - no Flo (Flood)
+- no Indy/Okie crack-screens
 
 skyview
 https://youtu.be/xBpSPi6xocw?t=1047 
