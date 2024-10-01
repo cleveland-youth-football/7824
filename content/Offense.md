@@ -29,37 +29,25 @@ We utilize `motion` (moving a player laterally along the line LOS prior to the s
 ## Run
 
 - ### [[Trap]]
-
 - ### [[Power-Counter]]
-
 - ### [[Inside-Zone]]
-
 - ### [[Outside-Zone]]
-
 - ### [[Option]]
-
 - ### [[Jet]]
 
 ## Pass
 
 - ### [[Screens]]
-
 - ### [[Snack]]
-
 - ### [[Fade Out]]
-
 - ### [[Flood]]
 
 ## Special
 
 - ### [[Neil Diamond]]
-
 - ### [[Fat Diamond]]
-
 - ### [[Michigan Bubble]]
-
 - ### [[Viking]]
-
 - ### [[Catapult]]
 
 
