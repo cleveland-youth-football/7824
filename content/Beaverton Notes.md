@@ -19,7 +19,7 @@ playcalling
 ## skyview
 
 https://youtu.be/xBpSPi6xocw?t=1047 
-- WTF are you running Avery and JoJo?
+- WTH are you running Avery and JoJo?
 
 
 ## caputoview
@@ -32,7 +32,7 @@ https://youtu.be/NWBWZrgsKMM?t=112
 - Keep your head up Drake M, crackback block like this is how Henry got a concussion last year
 
 https://youtu.be/NWBWZrgsKMM?t=147
-- Jude if nothing comes out of the backfield this is a blitz to your size; instead of dancing around, tackle the ball carrier in the backfield!
+- Jude if nothing comes out of the backfield this is a blitz to your side; instead of dancing around, tackle the ball carrier in the backfield!
 
 https://youtu.be/NWBWZrgsKMM?t=234
 - Jude it took me calling this 2-3 times before you threw the ball; see how even a not perfect spiral can get the job done?
