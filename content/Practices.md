@@ -1,6 +1,22 @@
 
 # Today
 
+## Tuesday October 1st 530-730pm
+
+- #### Count: 49
+- #### Focus: Power/Counter in G/Y
+
+| Time  | Length | Team             | Group1                           | Group2            | Group3          |
+| ----- | ------ | ---------------- | -------------------------------- | ----------------- | --------------- |
+| 530pm | 15m    | [[The Park Run]] | Drake, Jude and Oliver with Cory |                   |                 |
+| 545pm | 5m     | Stretching       |                                  |                   |                 |
+| 550pm | 25m    | Breakout         | Shoulder Hits                    | Gang Tackle Strip | Mattress Tackle |
+| 615pm | 20m    | Power/Counter    |                                  |                   |                 |
+| 635pm | 20m    | Catapult         |                                  |                   |                 |
+| 655pm | 30m    | Screens          |                                  |                   |                 |
+| 725pm | 5pm    | Wrapup           |                                  |                   |                 |
+
+# Previous
 ## Friday September 27th 530-730pm
 
 - #### Count: 48
@@ -13,7 +29,6 @@
 | 6pm   | 30m    | Defensive Alignment & Assignment |        |        |        |
 | 630pm | 55m    | Offense Review                   |        |        |        |
 | 725pm | 5pm    | Wrapup                           |        |        |        |
-# Previous
 
 ## Thursday September 26th 530-730pm
 
