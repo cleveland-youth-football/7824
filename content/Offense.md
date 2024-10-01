@@ -50,9 +50,18 @@ We utilize `motion` (moving a player laterally along the line LOS prior to the s
 
 - ### [[Flood]]
 
-- ### [[Special]]
+## Special
+
+- ### [[Neil Diamond]]
+
+- ### [[Fat Diamond]]
+
+- ### [[Michigan Bubble]]
 
 - ### [[Viking]]
+
+- ### [[Catapult]]
+
 
 ## Wristbands
 
