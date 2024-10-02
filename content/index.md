@@ -2,10 +2,11 @@
 title: Welcome to CYF for 7/8 in 2024
 ---
 ## What's New?
-- [[Catapult]] <- checkout our new trick play **Catapult**!
-- [[Beaverton Notes]]
+- [[Catapult]] <- checkout our new trick play **Catapult**! (updated 10/2)
+- [[Trap]] <- we will run Trap this week
+- [[Power-Counter]] <- We are running Power/Counter out of G/Y in addition to B!
+- [[Beaverton Notes]] <- See feedback and timestamps from our film
 - [[2WR Routes#Screen Routes]] <- checkout the new Crack-Arc blocks with 3WRs!
-- [[Power-Counter]] We are now running Power and Counter
 - [[Zone-Blocking-Flashcards]]
 
 
