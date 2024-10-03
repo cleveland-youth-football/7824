@@ -1,7 +1,24 @@
 
 # Today
 
-## Tuesday October 1st 530-730pm
+## Thursday October 3rd 530-730pm
+
+- #### Count: 49
+- #### Focus: Review T/P/C
+
+| Time  | Length | Team                               | Group1                           | Group2 | Group3 |
+| ----- | ------ | ---------------------------------- | -------------------------------- | ------ | ------ |
+| 530pm | 15m    | [[The Park Run]] w/ Frankie & Cash | Drake, Jude and Oliver with Cory |        |        |
+| 545pm | 5m     | Stretching                         |                                  |        |        |
+| 550pm | 10m    | Conditioning                       |                                  |        |        |
+| 600pm | 10m    | Defense / Blitzing                 |                                  |        |        |
+| 610pm | 10m    | Henry Mode                         |                                  |        |        |
+| 620pm | 65m    | Review Offense                     |                                  |        |        |
+| 725pm | 5pm    | Wrapup                             |                                  |        |        |
+
+# Previous
+
+## Tuesday October 2nd 530-730pm
 
 - #### Count: 49
 - #### Focus: Power/Counter in G/Y
@@ -17,7 +34,6 @@
 | 700pm | 25m    | Catapult           |                                  |        |        |
 | 725pm | 5pm    | Wrapup             |                                  |        |        |
 
-# Previous
 
 ## Tuesday October 1st 530-730pm
 
