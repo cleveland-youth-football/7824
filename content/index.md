@@ -2,6 +2,7 @@
 title: Welcome to CYF for 7/8 in 2024
 ---
 ## What's New?
+- [[Phantom]] <- new WR Slip Screen for next week (McKay)
 - [[Catapult]] <- checkout our new trick play **Catapult**! (updated 10/2)
 - [[Trap]] <- we will run Trap this week
 - [[Power-Counter]] <- We are running Power/Counter out of G/Y in addition to B!
