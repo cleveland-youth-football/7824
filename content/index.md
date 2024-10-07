@@ -2,12 +2,13 @@
 title: Welcome to CYF for 7/8 in 2024
 ---
 ## What's New?
-- [[Combo Series]]
-- [[Phantom]] <- new WR Slip Screen for next week (McKay)
-- [[Catapult]] <- checkout our new trick play **Catapult**! (updated 10/2)
-- [[Trap]] <- we will run Trap this week
-- [[Power-Counter]] <- We are running Power/Counter out of G/Y in addition to B!
-- [[Beaverton Notes]] <- See feedback and timestamps from our film
+- Final Changes for the year:
+	- [[Phantom]] <- new WR Slip Screen
+	- [[Snack]] <- Changed backside to Post and pass-pro for T
+	- [[Fade Out]]  <- Changed pass-pro for T
+	- [[Flood]] <- changed FAKE to WR Reverse
+	- [[Michigan Bubble]] <- changed Fake to a QB Counter
+	- [[Playbooks#Offensive Playbooks]] <- offensive playbooks updated
 - [[2WR Routes#Screen Routes]] <- checkout the new Crack-Arc blocks with 3WRs!
 - [[Zone-Blocking-Flashcards]]
 
