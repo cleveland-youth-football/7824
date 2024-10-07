@@ -25,13 +25,13 @@ This play puts the outside defender in conflict between covering the `stick` and
 - [[Episode 5 3 Quick Game Plays]]
 
 ## Black (20p 2x1)
-![[Pasted image 20240909082023.png]]
+![[Pasted image 20241007130957.png]]
 
 ## Green (10p 2x2)
-![[Pasted image 20240909082045.png]]
+![[Pasted image 20241007131018.png]]
 
 ## Yellow (10p 3x1)
-![[Pasted image 20240909082114.png]]
+![[Pasted image 20241007131041.png]]
 
 # Snag (v2)
 - #1 WR runs the `stop` or `snag` route in the same position as `stick`; 1yd behind and 1yd inside of the `OLB`
@@ -45,10 +45,10 @@ This play puts the outside defender in conflict between covering the `stick` and
 - [[Episode 5 3 Quick Game Plays]]
 
 ## Black (20p 2x1)
-![[Pasted image 20240909082036.png]]
+![[Pasted image 20241007131008.png]]
 
 ## Green (10p 2x2)
-![[Pasted image 20240909082055.png]]
+![[Pasted image 20241007131030.png]]
 
 ## Yellow (10p 3x1)
-![[Pasted image 20240909082126.png]]
+![[Pasted image 20241007131057.png]]
