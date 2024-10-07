@@ -21,10 +21,10 @@
 # Fade Out
 
 ## Black (20p 2x1)
-![[Pasted image 20240909075559.png]]
+![[Pasted image 20241007131248.png]]
 
 ## Green (10p 2x2)
-![[Pasted image 20240909075612.png]]
+![[Pasted image 20241007131329.png]]
 
 ## Yellow (10p 3x1)
-![[Pasted image 20240909075626.png]]
+![[Pasted image 20241007131339.png]]
