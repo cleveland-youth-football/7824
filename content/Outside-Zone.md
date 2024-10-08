@@ -55,4 +55,4 @@
 ![[Pasted image 20240901185314.png]]
 
 ### Weak
-![[Pasted image 20240901185303.png]]
+![[Pasted image 20241008152438.png]]

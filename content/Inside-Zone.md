@@ -43,7 +43,7 @@
 ## Yellow (20p 3x1)
 
 ### Weak
-![[Pasted image 20240901184551.png]]
+![[Pasted image 20241008152234.png]]
 
 ### Strong
-![[Pasted image 20240901184604.png]]
+![[Pasted image 20241008152305.png]]
