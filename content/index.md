@@ -2,6 +2,7 @@
 title: Welcome to CYF for 7/8 in 2024
 ---
 ## What's New?
+- [[Plays to Run Through]]
 - Final Changes for the year:
 	- [[Phantom]] <- new WR Slip Screen
 	- [[Snack]] <- Changed backside to Post and pass-pro for T

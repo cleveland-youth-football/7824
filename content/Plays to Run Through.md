@@ -1,0 +1,39 @@
+- Y Indy 2
+- Y Miss 1
+- Y Indy 2 F*
+- G Alaska
+- G Kota 1
+- G Ore 1
+- G Okie 2 F*
+- B Alaska
+- B Ore 2
+- B Jet 1
+- B Bama
+- B Jet 2
+- Y Alaska
+- Y Jet 1 F*
+- Y Kota 2
+- Y York
+- Y Flo F*
+- Viking F*
+- Catapult (Barrett)
+- Phantom
+- Michigan (Bubble)
+- Fat Diamond
+- Michigam F* (Counter)
+- B Alaska
+- B Rado 1
+- B Indy 1
+- B Miss 1
+- B Rado 2
+- G Alaska
+- G Cali Dagger
+- G Cali Wheelie
+- G Cali Hawk
+- Y Indy 1
+- Y Indy 1 F*
+
+- FG
+- Punt
+- KO
+- KR
