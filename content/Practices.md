@@ -1,6 +1,21 @@
 
 # Today
 
+## Tues-Thurs October 15th-17th 530-730pm
+
+- #### Count: 49
+- #### Focus: Review T/P/C
+
+| Time  | Length | Team               | Group1 | Group2 | Group3 |
+| ----- | ------ | ------------------ | ------ | ------ | ------ |
+| 530pm | 5-10m  | Stretching         |        |        |        |
+| 540pm | 40m    | Defensive breakout |        |        |        |
+| 620pm | 40m    | Offensive breakout |        |        |        |
+| 700pm | 25m    | Team               |        |        |        |
+| 725pm | 5pm    | Wrapup             |        |        |        |
+
+# Previous
+
 ## Thursday October 3rd 530-730pm
 
 - #### Count: 49
@@ -16,7 +31,6 @@
 | 620pm | 65m    | Review Offense                     |                                  |        |        |
 | 725pm | 5pm    | Wrapup                             |                                  |        |        |
 
-# Previous
 
 ## Tuesday October 2nd 530-730pm
 

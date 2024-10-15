@@ -2,6 +2,7 @@
 title: Welcome to CYF for 7/8 in 2024
 ---
 ## What's New?
+- [[Practice Breakout]]
 -  [[MckKay Notes]]
 - [[Roosevelt Notes]]
 - [[Plays to Run Through]]
