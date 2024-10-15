@@ -6,13 +6,13 @@
 - #### Count: 49
 - #### Focus: Review T/P/C
 
-| Time  | Length | Team               | Group1 | Group2 | Group3 |
-| ----- | ------ | ------------------ | ------ | ------ | ------ |
-| 530pm | 5-10m  | Stretching         |        |        |        |
-| 540pm | 40m    | Defensive breakout |        |        |        |
-| 620pm | 40m    | Offensive breakout |        |        |        |
-| 700pm | 25m    | Team               |        |        |        |
-| 725pm | 5pm    | Wrapup             |        |        |        |
+| Time  | Length | Team                            | Group1 | Group2 | Group3 |
+| ----- | ------ | ------------------------------- | ------ | ------ | ------ |
+| 530pm | 5-10m  | Stretching                      |        |        |        |
+| 540pm | 40m    | [[Practice Breakout#Defensive]] |        |        |        |
+| 620pm | 40m    | [[Practice Breakout#Offensive]] |        |        |        |
+| 700pm | 25m    | Team                            |        |        |        |
+| 725pm | 5pm    | Wrapup                          |        |        |        |
 
 # Previous
 
