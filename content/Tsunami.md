@@ -1,1 +1,1 @@
-![[Pasted image 20241016130014.png]]
+![[Pasted image 20241016162520.png]]
