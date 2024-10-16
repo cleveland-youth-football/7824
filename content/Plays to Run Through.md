@@ -1,29 +1,38 @@
 
-
+Z motion pair
 - B Jersey 1
 - B Flo
 
+H motion pair
 - G Jersey 2
 - G Miss 2 m*
 
+Special pair
 - Michigan (Bubble)
 - Michigan F* (Counter)
 
+one off
 - Y Miss 1/2
 
+backside arc-block screens
 - Y Indy 1 F*
 - Y Okie 1 F*
 
+H quick pass
 - B Jersey 2 (H)
 
+Jet / Bubble pair
 - Y Jersey 1
 - Y Jersey 1 F*
 
+TO Jet / Special pair
 - Y Jersey 2
 - Y Jersey 2 F*
 
+Levi play
 - G York, alert H (Levi wheel)
 
+Bunch group
 - Y Flo
 - Y Flo F*
 - Catapult
