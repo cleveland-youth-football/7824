@@ -50,6 +50,7 @@ We utilize `motion` (moving a player laterally along the line LOS prior to the s
 - ### [[Viking]]
 - ### [[Catapult]]
 - ### [[Phantom]]
+- ### [[Tsunami]]
 
 
 ## Wristbands
