@@ -51,7 +51,8 @@ one off
 - Y Miss 1/2
 
 backside arc-block screens
-![[Pasted image 20241017161517.png]]
+![[Pasted image 20241017163012.png]]
+
 - Y Indy 1 F*
 - Y Okie 1 F*
 
