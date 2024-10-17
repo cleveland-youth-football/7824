@@ -1,27 +1,24 @@
 
-Henry Mode; test Wyatt on Counter/Power with Avery
+##### Henry Mode; test Wyatt on Counter/Power with Avery
 
 - B/G/Y Ore (Levi, Milo)
 - Fat Diamond
 - Kota 1/2
 - Bama
-
-Viking (f*)
-
-Freeze Play
+##### Viking (f*)
+- Jojo wheel, Oliver post
+- Levi wheel, Jojo post
+##### Freeze Play
 - Alaska
 - Yukon
 - Canada
 - North Pole
-
-- Y Okie 2
+##### Y Okie 2
 - Andre, Milo, Levi, Gus?
-
-Our defense backed up on the goal line
+##### Our defense backed up on the goal line
 - LBs at 2yd
 - Safety blitz
-
-2pt conversion
+##### 2pt conversion
 - Catapult to Boyd
 - Z shortens route, runs flat corner to the back pylon (stop there)
 - Y shortens route, 5yd out and aims for the mid-point on the side of the endzone (stop there)
