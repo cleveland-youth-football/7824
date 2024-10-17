@@ -1,13 +1,52 @@
 
+Henry Mode; test Wyatt on Counter/Power with Avery
+
+- B/G/Y Ore (Levi, Milo)
+- Fat Diamond
+- Kota 1/2
+- Bama
+
+Viking (f*)
+
+Freeze Play
+- Alaska
+- Yukon
+- Canada
+- North Pole
+
+- Y Okie 2
+- Andre, Milo, Levi, Gus?
+
+Our defense backed up on the goal line
+- LBs at 2yd
+- Safety blitz
+
+2pt conversion
+- Catapult to Boyd
+- Z shortens route, runs flat corner to the back pylon (stop there)
+- Y shortens route, 5yd out and aims for the mid-point on the side of the endzone (stop there)
+
+---
+
 Z motion pair
+![[Pasted image 20241017161410.png]]
 - B Jersey 1
 - B Flo
 
 H motion pair
+![[Pasted image 20241017161423.png]]
 - G Jersey 2
 - G Miss 2 m*
 
+Screen One-Offs
+![[Pasted image 20241017161503.png]]
+Jet / Bubble pair
+- Y Jersey 1
+- Y Jersey 1 F*
+
+
 Special pair
+![[Pasted image 20241017161717.png]]
 - Michigan (Bubble)
 - Michigan F* (Counter)
 
@@ -15,15 +54,12 @@ one off
 - Y Miss 1/2
 
 backside arc-block screens
+![[Pasted image 20241017161517.png]]
 - Y Indy 1 F*
 - Y Okie 1 F*
 
 H quick pass
 - B Jersey 2 (H)
-
-Jet / Bubble pair
-- Y Jersey 1
-- Y Jersey 1 F*
 
 TO Jet / Special pair
 - Y Jersey 2
