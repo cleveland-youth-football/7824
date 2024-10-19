@@ -2,18 +2,10 @@
 title: Welcome to CYF for 7/8 in 2024
 ---
 ## What's New?
-- [[Practice Breakout]]
--  [[MckKay Notes]]
+
 - [[Roosevelt Notes]]
-- [[Plays to Run Through]]
-- Final Changes for the year:
-	- [[Snack]] <- Changed backside to Post and pass-pro for T
-	- [[Fade Out]]  <- Changed pass-pro for T
-	- [[Flood]] <- changed FAKE to WR Reverse
-	- [[Michigan Bubble]] <- changed Fake to a QB Counter
-	- [[Playbooks#Offensive Playbooks]] <- offensive playbooks updated
-- [[2WR Routes#Screen Routes]] <- checkout the new Crack-Arc blocks with 3WRs!
-- [[Zone-Blocking-Flashcards]]
+- [[Play Calling Strats]]
+
 
 
 
