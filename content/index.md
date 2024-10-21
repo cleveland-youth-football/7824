@@ -5,6 +5,7 @@ title: Welcome to CYF for 7/8 in 2024
 
 - [[Roosevelt Notes]]
 - [[Tsunami]] <- updated version; check it out
+- [[Fake Punt]] <- quick pass to Jojo on the fake punt!
 - [[Play Calling Strats]]
 - [[Last Second Coaching Notes]]
 
