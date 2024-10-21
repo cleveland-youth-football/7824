@@ -2,19 +2,24 @@
 - https://youtu.be/M0evu_gME44?t=487
 ##### Henry freelancing inside gives up a huge play and TD
 - https://youtu.be/M0evu_gME44?t=526
+- https://youtu.be/BwdsEF7_enU?t=127
+- Henry #9 is obviously there to block the DE; you have to read that and fill behind underneath!
+- Robert don't get stiff-armed! Drag him down by the arm he offers you!
 ##### Terrible route from Calder; then free-lancing from Avery and Jojo
 - https://youtu.be/M0evu_gME44?t=751
 ##### Terrible route by Boyd & Weak throw end in interception
 - https://youtu.be/M0evu_gME44?t=825
-- terrible call by me; show have hit the throwback to Jude
-##### Henry why are we standing around when there is a fumble
+- terrible call by me; should have called and executed the throwback to Jude
+- This is Catapult Oliver; your position, usually Calder, DOES NOT EVEN GO DOWN FIELD!
+- https://youtu.be/BwdsEF7_enU?t=231
+##### Henry why are we standing around when there is a fumble?
 - https://youtu.be/M0evu_gME44?t=1018
 ##### Hitting the Punter gave them a new set of downs
 - https://youtu.be/M0evu_gME44?t=1059
 ##### Our best defensive rep
 - https://youtu.be/M0evu_gME44?t=1349
 - Sack for Corbin !
-- Drake B Goaded into taking a personal foul by `#9`
+- Drake B goaded(tricked) into taking a personal foul by `#9`
 ##### This is how you take revenge on an ahole
 - https://youtu.be/M0evu_gME44?t=1409
 - TFL by Drake M on `#9`
@@ -22,29 +27,36 @@
 - https://youtu.be/M0evu_gME44?t=1509
 ##### Milo (all RBs) you cannot freelance in gap-scheme runs
 - https://youtu.be/M0evu_gME44?t=1596
+- https://youtu.be/BwdsEF7_enU?t=498
 - Weak kickout block Henry
-- Trap
-- Power
-- Counter
+- Gap scheme is Trap/Counter/Power
+- Jude we need to recognize that they have LBs rolled down into the gaps; this is not going to work
 ##### So many things wrong
 - https://youtu.be/M0evu_gME44?t=1770
+- https://youtu.be/BwdsEF7_enU?t=544
 - Jude you gave up on the pocket WAY TOO SOON; Barrett (alert H) pops wide open
 - Lazy, terrible hitch route by Jojo
 - Avery quits on route; ball sails by
+##### Nice Punt Jude
+- https://youtu.be/BwdsEF7_enU?t=581
 ##### Henry (all LBs) this is what a blitz looks like when it is picked up
 - https://youtu.be/M0evu_gME44?t=2045
 ##### Nice pitch by Jude and run by Levi for a big gain
 - https://youtu.be/M0evu_gME44?t=2131
 #### Interception returned for a TD (so many errors Jude)
 - https://youtu.be/M0evu_gME44?t=2199
+- https://youtu.be/BwdsEF7_enU?t=682
 - need to wait longer to get the T out further to block the edge
 - because the edge wasn't blocked, you were rushed to roll out and make a play
 - The play is named because it floods three players at different levels on one side of the field; 
 - You threw behind Jojo and #3 intercepted it
+- Jojo this is a 10 yd out, not a 5 yd out!
 - Meanwhile, Oliver AND Avery were open on this play
 - You then threw a fit on the field instead of tracking down the player immediately
 - When you go close to making a play you CHOSE not to be physical and make a tackle on `#3`
 - Henry pls worry about your own play instead of criticizing your teammate QB
+##### Why did you sign up for Football Colby???
+- https://youtu.be/BwdsEF7_enU?t=743
 ##### Sending in a play with Oliver
 - https://youtu.be/M0evu_gME44?t=2517
 - Oliver I send in Pearce to run Rado 2 to tell you a play
@@ -53,8 +65,11 @@
 - look at how WIDE OPEN OLIVER IS ON THIS PLAY!!!
 ##### Levi backing up on on Punt messes up Jude's follow through
 - https://youtu.be/M0evu_gME44?t=2597
+- https://youtu.be/BwdsEF7_enU?t=797
 ##### TERRIBLE CALL BY ME; meant to call Viking with Jojo running the Post
 - https://youtu.be/M0evu_gME44?t=2892
+- https://youtu.be/BwdsEF7_enU?t=892
+- Jojo you ran the absolute wrong route and you and Avery are standing next to each other!
 - Drake B ends up getting injured on this play
 ##### I have no idea what you are doing Henry; this is OZ-!!!!
 - https://youtu.be/M0evu_gME44?t=2945
@@ -71,7 +86,6 @@
 - Blitz started fine, but then you start dancing and not tackling the player; #3 went the other way for a huge gain
 - Seth freelanced inside
 - Henry DID NOT DO WHAT I HAVE COACHED HIM A THOUSAND TIMES TO DO!!!!
-
 ##### Wrong play in unison WORKS!
 - https://youtu.be/M0evu_gME44?t=3465
 - good job, Seth, Avery, Jojo, Jude and Oliver
@@ -84,7 +98,6 @@
 - initial part of the run was nice
 - then you got scared and walked out of bounds
 - I think you could have much closer and maybe scored if you CHOSE to be physical
-
 ##### The WORST Defensive play of the game!!!!
 - https://youtu.be/M0evu_gME44?t=3311
 - Jude WAY OUT OF POSITION instead of being ready at the snap
@@ -111,6 +124,7 @@
 ##### Terrible version of Power SETH
 - https://youtu.be/M0evu_gME44?t=4148
 - I have said a thousand times, the DOUBLE TEAM has to push the player back, only get LBs when THEY COME!!!! You went chasing LBs that were backpedaling!!! 
+- Ben, alone, gets overpowered and ruins the play
 ##### Milo in space....
 - https://youtu.be/M0evu_gME44?t=4515
 - I have said a thousand times, if it's 2x2 and #2 goes away, it is an automatic blitz
@@ -157,7 +171,9 @@
 - https://youtu.be/M0evu_gME44?t=6886
 ##### Amyr's excellent videography
 
-# Previous to playing the game
+
+---
+# Roosevelt Notes Prior to Playing the Game
 
 ## Best Players
 1. #3 Gamebreaker; fast and athletic
