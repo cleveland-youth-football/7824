@@ -1,3 +1,34 @@
+## General Notes About the Game
+- Selfish plays from:
+	- Jojo
+	- Drake M
+	- Seth
+	- Henry
+	- Jude
+- WRs did not run correct routes OFTEN
+	- Jojo ran incorrect routes
+	- Oliver, Drake B don't know what a post route is
+	- Calder gave terrible effort
+	- EVERYONE GOT LAZY AND STOPPED RUNNING!
+- Defense played soft and got beat by one kid!
+	- Often I was expecting 8 players to be OVERWHELMING their OL and making the tackle in the back field
+	- Jojo needed to stay a bit back and let that happen and clean up whatever was left
+	- That would have been a win if I could get 8 players to attack the ball in unison
+	- Instead:
+		- DEs breaking contain
+		- OLB play continues to be very poor and not following my coaching directives
+		- ILBs are missing tackles and not blitzing correctly
+		- DTs were largely ineffective
+		- CBs were mostly unchallenged
+		- OL still struggles with OZ; why?
+- Special teams was quite good actually
+	- nice kicks from Jude and Barrett
+	- nice recovery from Seth
+- Offense struggle a lot early on, but turned it on late
+	- Nice fight from Oliver
+
+
+## Some specific plays/players called out
 ##### Seth not being aggressive
 - https://youtu.be/M0evu_gME44?t=487
 ##### Henry freelancing inside gives up a huge play and TD
