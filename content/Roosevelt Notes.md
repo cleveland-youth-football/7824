@@ -199,8 +199,12 @@
 - You're frustrated, I get it but this is a selfish play
 ##### This is it Drake M; nice strip sack
 - https://youtu.be/M0evu_gME44?t=6886
-##### This is more Henry freelancing; tripping Seth
+##### This is a great example of NOT our Defense
 - https://youtu.be/M0evu_gME44?t=4575
+- Henry freelancing tripping, Seth on some made up blitz
+- Pearce dancing around and not attacking
+- Lunging arm tackle from Milo
+- Jojo overrunning the play
 - didn't play a factor in this terrible play, but it is indicative of the focus and attention to detail
 
 
@@ -244,3 +248,15 @@
 
 #### Even when teammates are confused, #3 is aggressive and rips the ball out for a scoup and score
 - https://youtu.be/HqF3oPj4jhw?t=937
+
+---
+## Maybe some changes for Game 2
+- Fake Punt Jude to Jojo "Punt DAMMIT"
+- Green Stacked on Indy, Okie and Ogre
+- Zmo and Hmo on running plays only
+- Use Colo instead of Rado
+- Run Yellow Counter/Power (motion) instead of Black
+- Cali out of Yellow, lead T blocker
+- DEs need to be disciplined; put hand into chest of attempted chipper
+- CBs line up halfway or 1/3 of the way between the #1 and #2 WR; especially when they flex these small kids way out
+- maybe run 5-3 with Alex at DT
