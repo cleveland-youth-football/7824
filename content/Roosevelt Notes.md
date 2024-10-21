@@ -129,7 +129,7 @@
 - I think you could have much closer and maybe scored if you CHOSE to be physical
 ##### The WORST Defensive play of the game!!!!
 - https://youtu.be/M0evu_gME44?t=3311
-- Jude WAY OUT OF POSITION instead of being ready at the snap
+- Jude WAY OUT OF POSITION instead of being ready at the snap; don't worry, walk after the fumble and kid waltzes into the end-zone as time expires, cool.
 - Terrible alignment and effort by Henry
 - Jojo looking back at the scoreboard at the snap of the ball; way out of position considering there were 3 WRs to the short side of the field; walking as #3 scores
 - Ball on the ground in the back field, no pressure; he picks it up and scores
@@ -159,6 +159,7 @@
 - I have said a thousand times, if it's 2x2 and #2 goes away, it is an automatic blitz
 - you're too slow to make this tackle in space Milo
 - your only chance was to blitz and catch him in the backfield
+
 ##### This is not we coached to play our defense
 - https://youtu.be/M0evu_gME44?t=5570
 - Drake M you need to get to your spot and read, then react; you overran the play, AGAIN
@@ -192,13 +193,15 @@
 ##### Oliver's Breakout Party; unfortunately bad call by ref
 - https://youtu.be/M0evu_gME44?t=5967
 - I understand it, but no need to take our frustration out on a kid and block him in the back, 70yds away from the play Henry
-- Unbelieveable effort by Oliver
+- Unbelievable effort by Oliver
 ##### Jojo can't have; can't have you losing your cool under pressure
 - https://youtu.be/M0evu_gME44?t=6215
 - You're frustrated, I get it but this is a selfish play
 ##### This is it Drake M; nice strip sack
 - https://youtu.be/M0evu_gME44?t=6886
-##### Amyr's excellent videography
+##### This is more Henry freelancing; tripping Seth
+- https://youtu.be/M0evu_gME44?t=4575
+- didn't play a factor in this terrible play, but it is indicative of the focus and attention to detail
 
 
 ---

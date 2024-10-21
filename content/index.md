@@ -4,6 +4,7 @@ title: Welcome to CYF for 7/8 in 2024
 ## What's New?
 
 - [[Roosevelt Notes]]
+- [[Tsunami]] <- updated version; check it out
 - [[Play Calling Strats]]
 - [[Last Second Coaching Notes]]
 
