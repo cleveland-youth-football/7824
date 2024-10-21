@@ -1,10 +1,10 @@
 ## General Notes About the Game
-- Selfish plays from:
-	- Jojo
-	- Drake M
-	- Seth
-	- Henry
-	- Jude
+- Special teams was quite good actually
+	- nice kicks from Jude and Barrett
+	- nice recovery from Seth
+- Offense struggle a lot early on, but turned it on late
+	- Nice fight from Oliver
+	- OL still struggles with OZ; why?
 - WRs did not run correct routes OFTEN
 	- Jojo ran incorrect routes
 	- Oliver, Drake B don't know what a post route is
@@ -16,18 +16,16 @@
 	- That would have been a win if I could get 8 players to attack the ball in unison
 	- Instead:
 		- DEs breaking contain
-		- OLB play continues to be very poor and not following my coaching directives
+		- OLB play continues to be very poor and not following coaching directives
 		- ILBs are missing tackles and not blitzing correctly
 		- DTs were largely ineffective
 		- CBs were mostly unchallenged
-		- OL still struggles with OZ; why?
-- Special teams was quite good actually
-	- nice kicks from Jude and Barrett
-	- nice recovery from Seth
-- Offense struggle a lot early on, but turned it on late
-	- Nice fight from Oliver
-
-
+- Selfish plays from:
+	- Jojo
+	- Drake M
+	- Seth
+	- Henry
+	- Jude
 ## Some specific plays/players called out
 ##### Seth not being aggressive
 - https://youtu.be/M0evu_gME44?t=487
