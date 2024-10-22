@@ -254,9 +254,14 @@
 - Fake Punt Jude to Jojo "Punt DAMMIT"
 - Green Stacked on Indy, Okie and Ogre
 - Zmo and Hmo on running plays only
-- Use Colo instead of Rado
-- Run Yellow Counter/Power (motion) instead of Black
-- Cali out of Yellow, lead T blocker
-- DEs need to be disciplined; put hand into chest of attempted chipper
+- Use Colo or Buffs instead of Rado
+- Cali has Isaiah at Center
+- Run Yellow Counter/Power (motion) instead of Black; maybe, maybe not
+- Cali out of Yellow, H has a seam route; lead T blocker
+- DEs need to be disciplined; put hand into chest of attempted chipper 5yds
 - CBs line up halfway or 1/3 of the way between the #1 and #2 WR; especially when they flex these small kids way out
 - maybe run 5-3 with Alex at DT
+- Need to run Black Ogre 1/2 (Oliver)
+- Run Y Indy 1 F* once per quarter
+- Y Flo needs to have the T shuffle further pre-snap
+- Calder if #9 is on you, block him rather than inside on all edge plays
