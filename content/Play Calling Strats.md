@@ -38,7 +38,7 @@
 ##### TO Body setup
 - Y Jet 2
 - Y Jet 2 F*
-##### H Arc-Crack setup
+##### H Arc-Crack setup (run once per quarter)
 - Y Indy 1
 - Y Indy 1 F*
 - Y Okie 1
@@ -49,3 +49,15 @@
 ##### Stick/Snag looks the same pre-snap to arc-crack
 - Y Kota 1/2
 - Y Indy 1 F*
+##### Short Yardage
+- Y Kota 1/2 Alert H
+- Y Indy 1 F*
+- Bama
+- B Ogre 1/2
+- Michigan (F*)
+- Y Flo
+- Y Rado
+##### Shot Plays
+- B York, alert H wheel (Oliver/Levi)
+- Catapult, alert Q
+- Tsunami
