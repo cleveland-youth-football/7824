@@ -246,7 +246,7 @@
 #### #4 Can hurt you too with his aggressive speed
 - https://youtu.be/HqF3oPj4jhw?t=764
 
-#### Even when teammates are confused, #3 is aggressive and rips the ball out for a scoup and score
+#### Even when teammates are confused, #3 is aggressive and rips the ball out for a scoop and score
 - https://youtu.be/HqF3oPj4jhw?t=937
 
 ---
@@ -254,10 +254,10 @@
 - Fake Punt Jude to Jojo "Punt DAMMIT"
 - Green Stacked on Indy, Okie and Ogre
 - Zmo and Hmo on running plays only
-- Use Colo or Buffs instead of Rado
-- Cali has Isaiah at Center
+- Use Colo or `Buffs` instead of `Rado`
+- Cali has Isaiah at Center?
 - Run Yellow Counter/Power (motion) instead of Black; maybe, maybe not
-- Cali out of Yellow, H has a seam route; lead T blocker
+- Cali out of Yellow, H has a seam route; lead T blocker; Jojo switches with Calder at X
 - DEs need to be disciplined; put hand into chest of attempted chipper 5yds
 - CBs line up halfway or 1/3 of the way between the #1 and #2 WR; especially when they flex these small kids way out
 - maybe run 5-3 with Alex at DT
@@ -265,3 +265,7 @@
 - Run Y Indy 1 F* once per quarter
 - Y Flo needs to have the T shuffle further pre-snap
 - Calder if #9 is on you, block him rather than inside on all edge plays
+- fix POST for Drake B and Oliver
+- change Tsunami back to something simpler
+- Kota 11 means Kota 1 with Jojo and Oliver switched
+- Kota 22 means Kota 2 with Jojo and Oliver switched
