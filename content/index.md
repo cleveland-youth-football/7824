@@ -2,7 +2,7 @@
 title: Welcome to CYF for 7/8 in 2024
 ---
 ## What's New?
-- [[Adjustments for Roosevelt Game 2 (Playoffs)]]
+- [[Adjustments for Roosevelt Game 2]]
 - [[Roosevelt Notes]]
 - [[Tsunami]] <- updated version; check it out
 - [[Fake Punt]] <- quick pass to Jojo on the fake punt!
